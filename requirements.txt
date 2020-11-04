@@ -1,0 +1,5 @@
+tabula
+pandas 
+numpy
+pikepdf
+PyPDF2

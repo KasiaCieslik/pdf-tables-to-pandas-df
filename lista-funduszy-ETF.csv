@@ -1,0 +1,483 @@
+,Nazwa instrumentu,Rynek,Waluta,Kod ISIN,Ticker (KID/KIID),AuM (MLN),Rep.,Opl.Zarz.,Dywidenda,Sector,url
+0,ISHARES DIVERSIFIED COMMODITY SWAP UCITS (SXRS GR ETF),DEU-XETRA,EUR,IE00BDFL4P12,SXRS:GR,1531,Synt.,"0,19",b. d.,Pozostałe,https://www.mdm.pl/addstatic/kid/IE00BDFL4P12.pdf
+1,COMSTAGE COMMERZBANK COMMODITY EX-AGRICULTURE UCITS (CBCOMM GR ET),DEU-XETRA,EUR,LU0419741177,CBCOMM:GR,318,Synt.,"0,3",Niereg.,Pozostałe,https://www.mdm.pl/addstatic/kid/LU0419741177.pdf
+2,ISHARES DIV COMD UCITS (DJCOMEX GR E),DEU-XETRA,EUR,DE000A0H0728,DJCOMEX:GR,280,Synt.,"0,46",Niereg.,Pozostałe,https://www.mdm.pl/addstatic/kid/DE000A0H0728.pdf
+3,DB X-TRACKERS DBLCI COMMODITY OPTIMUM YIELD SWAP UCITS (XDBC GR ETF),DEU-XETRA,EUR,LU0292106167,XDBC:GR,213,Synt.,"0,55",Nie wypłaca,Pozostałe,https://www.mdm.pl/addstatic/kid/LU0292106167.pdf
+4,ISHARES STOXX EUROPE 600 AUTOMOBILES & PARTS UCITS (SXAPEX GR ETF),DEU-XETRA,EUR,DE000A0Q4R28,SXAPEX:GR,321,Fizyczna,"0,46",Kwartalnie,Dóbr wyższego rzędu,https://www.mdm.pl/addstatic/kid/DE000A0Q4R28.pdf
+5,ISHARES STOXX EUROPE 600 AUTOMOBILES & PARTS UCITS (SXAPEX GR ETF),DEU-XETRA,EUR,DE000A0Q4R28,SXAPEX:GR,321,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0Q4R28.pdf
+6,DB X-TRACKERS MSCI WORLD CONSUMER DISCRETIONARY UCITS (XDWC GR ETF),DEU-XETRA,EUR,IE00BM67HP23,XDWC:GR,159,Fizyczna,"0,3",Nie wypłaca,Dóbr wyższego rzędu,https://www.mdm.pl/addstatic/kid/IE00BM67HP23.pdf
+7,DB X-TRACKERS MSCI WORLD CONSUMER DISCRETIONARY UCITS (XDWC GR ETF),DEU-XETRA,EUR,IE00BM67HP23,XDWC:GR,159,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BM67HP23.pdf
+8,ISHARES STOXX EUROPE 600 PERSONAl & HOUSEHOLD GOODS UCITS (SXQPEX GR ET),DEU-XETRA,EUR,DE000A0H08N1,SXQPEX:GR,124,Fizyczna,"0,46",Kwartalnie,Dóbr wyższego rzędu,https://www.mdm.pl/addstatic/kid/DE000A0H08N1.pdf
+9,ISHARES STOXX EUROPE 600 PERSONAl & HOUSEHOLD GOODS UCITS (SXQPEX GR ET),DEU-XETRA,EUR,DE000A0H08N1,SXQPEX:GR,124,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08N1.pdf
+10,ISHARES STOXX EUROPE 600 TRAVEL & LEISURE UCITS (SXTPEX GR ET),DEU-XETRA,EUR,DE000A0H08S0,SXTPEX:GR,37,Fizyczna,"0,46",Kwartalnie,Dóbr wyższego rzędu,https://www.mdm.pl/addstatic/kid/DE000A0H08S0.pdf
+11,ISHARES STOXX EUROPE 600 TRAVEL & LEISURE UCITS (SXTPEX GR ET),DEU-XETRA,EUR,DE000A0H08S0,SXTPEX:GR,37,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08S0.pdf
+12,ISHARES STOXX EUROPE 600 FOOD UCITS (SX3PEX GR ET),DEU-XETRA,EUR,DE000A0H08H3,SX3PEX:GR,320,Fizyczna,"0,46",Kwartalnie,Dóbr powszechnego użytku,https://www.mdm.pl/addstatic/kid/DE000A0H08H3.pdf
+13,ISHARES STOXX EUROPE 600 FOOD UCITS (SX3PEX GR ET),DEU-XETRA,EUR,DE000A0H08H3,SX3PEX:GR,320,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08H3.pdf
+14,DB X-TRACKERS MSCI WORLD CONSUMER STAPLES UCITS (XDWS GR ETF),DEU-XETRA,EUR,IE00BM67HN09,XDWS:GR,292,Fizyczna,"0,3",Nie wypłaca,Dóbr powszechnego użytku,https://www.mdm.pl/addstatic/kid/IE00BM67HN09.pdf
+15,DB X-TRACKERS MSCI WORLD CONSUMER STAPLES UCITS (XDWS GR ETF),DEU-XETRA,EUR,IE00BM67HN09,XDWS:GR,292,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BM67HN09.pdf
+16,DB X-TRACKERS STOXX EUROPE 600 FOOD & BEVERAGE UCITS (XS3R GR ETF),DEU-XETRA,EUR,LU0292105359,XS3R:GR,65,Synt.,"0,3",Nie wypłaca,Dóbr powszechnego użytku,https://www.mdm.pl/addstatic/kid/LU0292105359.pdf
+17,DB X-TRACKERS STOXX EUROPE 600 FOOD & BEVERAGE UCITS (XS3R GR ETF),DEU-XETRA,EUR,LU0292105359,XS3R:GR,65,Synt.,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0292105359.pdf
+18,ISHARES STOXX EUROPE 600 OIL & GAS UCITS (SXEPEX GR ET),DEU-XETRA,EUR,DE000A0H08M3,SXEPEX:GR,496,Fizyczna,"0,46",Kwartalnie,Energetyczny,https://www.mdm.pl/addstatic/kid/DE000A0H08M3.pdf
+19,ISHARES STOXX EUROPE 600 OIL & GAS UCITS (SXEPEX GR ET),DEU-XETRA,EUR,DE000A0H08M3,SXEPEX:GR,496,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08M3.pdf
+20,LYXOR NEW ENERGY UCITS (LYXNRJ GR ET),DEU-XETRA,EUR,FR0010524777,LYXNRJ:GR,521,Synt.,"0,6",Rocznie,Energetyczny,https://www.mdm.pl/addstatic/kid/FR0010524777.pdf
+21,DB X-TRACKERS MSCI WORLD ENERGY UCITS (XDW0 GR ETF),DEU-XETRA,EUR,IE00BM67HM91,XDW0:GR,155,Fizyczna,"0,3",Nie wypłaca,Energetyczny,https://www.mdm.pl/addstatic/kid/IE00BM67HM91.pdf
+22,DB X-TRACKERS MSCI WORLD ENERGY UCITS (XDW0 GR ETF),DEU-XETRA,EUR,IE00BM67HM91,XDW0:GR,155,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BM67HM91.pdf
+23,ISHARES S&P 500 ENERGY SECTOR UCITS (QDVF GR ETF),DEU-XETRA,EUR,IE00B42NKQ00,QDVF:GR,150,Fizyczna,"0,15",Nie wypłaca,Energetyczny,https://www.mdm.pl/addstatic/kid/IE00B42NKQ00.pdf
+24,ISHARES S&P 500 ENERGY SECTOR UCITS (QDVF GR ETF),DEU-XETRA,EUR,IE00B42NKQ00,QDVF:GR,150,Fizyczna,"0,15",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B42NKQ00.pdf
+25,DB XTRACKERS STOXX EUROPE 600 OIL & GAS SWAP UCITS (XSER GR ETF),DEU-XETRA,EUR,LU0292101796,XSER:GR,46,Synt.,"0,3",Nie wypłaca,Energetyczny,https://www.mdm.pl/addstatic/kid/LU0292101796.pdf
+26,DB XTRACKERS STOXX EUROPE 600 OIL & GAS SWAP UCITS (XSER GR ETF),DEU-XETRA,EUR,LU0292101796,XSER:GR,46,Synt.,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0292101796.pdf
+27,SPDR WORLD ENERGY UCITS (WNRG LN ETF),GBR-LSE,USD,IE00BYTRR863,WNRG:LN,212,Fizyczna,"0,3",Nie wypłaca,Energetyczny,https://www.mdm.pl/addstatic/kid/IE00BYTRR863.pdf
+28,SPDR WORLD ENERGY UCITS (WNRG LN ETF),GBR-LSE,USD,IE00BYTRR863,WNRG:LN,212,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYTRR863.pdf
+29,SPDR WORLD ENERGY UCITS (WNRG LN ETF),GBR-LSE,USD,IE00BYTRR863,WNRG:LN,212,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYTRR863.pdf
+30,ISHARES OIL & GAS EXPLORATION & PRODUCTION UCITS (SPOG LN ETF),GBR-LSE,GBP,IE00B6R51Z18,SPOG:LN,136,Fizyczna,"0,55",Nie wypłaca,Energetyczny,https://www.mdm.pl/addstatic/kid/IE00B6R51Z18.pdf
+31,ISHARES OIL & GAS EXPLORATION & PRODUCTION UCITS (SPOG LN ETF),GBR-LSE,GBP,IE00B6R51Z18,SPOG:LN,136,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00B6R51Z18.pdf
+32,ISHARES EURO STOXX BANKS 30-15 UCITS (SX7EEX GR ET),DEU-XETRA,EUR,DE0006289309,SX7EEX:GR,707,Fizyczna,"0,51",Kwartalnie,Finansowy,https://www.mdm.pl/addstatic/kid/DE0006289309.pdf
+33,ISHARES EURO STOXX BANKS 30-15 UCITS (SX7EEX GR ET),DEU-XETRA,EUR,DE0006289309,SX7EEX:GR,707,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0006289309.pdf
+34,ISHARES S&P 500 FINANCIALS SECTOR UCITS (QDVH GR ETF),DEU-XETRA,EUR,IE00B4JNQZ49,QDVH:GR,409,Fizyczna,"0,15",Nie wypłaca,Finansowy,https://www.mdm.pl/addstatic/kid/IE00B4JNQZ49.pdf
+35,ISHARES S&P 500 FINANCIALS SECTOR UCITS (IUFS LN ETF),GBR-LSE,USD,IE00B4JNQZ49,IUFS:LN,409,Fizyczna,"0,15",Nie wypłaca,Finansowy,https://www.mdm.pl/addstatic/kid/IE00B4JNQZ49.pdf
+36,ISHARES S&P 500 FINANCIALS SECTOR UCITS (QDVH GR ETF),DEU-XETRA,EUR,IE00B4JNQZ49,QDVH:GR,409,Fizyczna,"0,15",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B4JNQZ49.pdf
+37,ISHARES S&P 500 FINANCIALS SECTOR UCITS (IUFS LN ETF),GBR-LSE,USD,IE00B4JNQZ49,IUFS:LN,409,Fizyczna,"0,15",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B4JNQZ49.pdf
+38,ISHARES S&P 500 FINANCIALS SECTOR UCITS (IUFS LN ETF),GBR-LSE,USD,IE00B4JNQZ49,IUFS:LN,409,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B4JNQZ49.pdf
+39,LYXOR STOXX EUROPEAN 600 BANKS UCITS (LBNK GR ET),DEU-XETRA,EUR,LU1834983477,LBNK:GR,317,Synt.,"0,3",Niereg.,Finansowy,https://www.mdm.pl/addstatic/kid/LU1834983477.pdf
+40,LYXOR STOXX EUROPEAN 600 BANKS UCITS (LBNK GR ET),DEU-XETRA,EUR,LU1834983477,LBNK:GR,317,Synt.,Niereg.,Niereg.,Europa,https://www.mdm.pl/addstatic/kid/LU1834983477.pdf
+41,ISHARES STOXX EUROPE 600 INSURANCE UCITS (SXIPEX GR ET),DEU-XETRA,EUR,DE000A0H08K7,SXIPEX:GR,225,Fizyczna,"0,46",Kwartalnie,Finansowy,https://www.mdm.pl/addstatic/kid/DE000A0H08K7.pdf
+42,ISHARES STOXX EUROPE 600 INSURANCE UCITS (SXIPEX GR ET),DEU-XETRA,EUR,DE000A0H08K7,SXIPEX:GR,225,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08K7.pdf
+43,SOURCE EURO STOXX OPTIMISED BANKS UCITS (S7XE GR ETF),DEU-XETRA,EUR,IE00B3Q19T94,S7XE:GR,147,Synt.,"0,3",Nie wypłaca,Finansowy,https://www.mdm.pl/addstatic/kid/IE00B3Q19T94.pdf
+44,SOURCE EURO STOXX OPTIMISED BANKS UCITS (S7XE GR ETF),DEU-XETRA,EUR,IE00B3Q19T94,S7XE:GR,147,Synt.,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/IE00B3Q19T94.pdf
+45,DB X-TRACKERS MSCI WORLD FINANCIAL UCITS (XDWF GR ETF),DEU-XETRA,EUR,IE00BM67HL84,XDWF:GR,105,Fizyczna,"0,3",Nie wypłaca,Finansowy,https://www.mdm.pl/addstatic/kid/IE00BM67HL84.pdf
+46,DB X-TRACKERS MSCI WORLD FINANCIAL UCITS (XDWF GR ETF),DEU-XETRA,EUR,IE00BM67HL84,XDWF:GR,105,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BM67HL84.pdf
+47,ISHARES STOXX EUROPE 600 BANKS UCITS (SX7PEX GR ET),DEU-XETRA,EUR,DE000A0F5UJ7,SX7PEX:GR,376,Fizyczna,"0,46",Kwartalnie,Finansowy,https://www.mdm.pl/addstatic/kid/DE000A0F5UJ7.pdf
+48,ISHARES STOXX EUROPE 600 BANKS UCITS (SX7PEX GR ET),DEU-XETRA,EUR,DE000A0F5UJ7,SX7PEX:GR,376,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0F5UJ7.pdf
+49,ISHARES GOLD PRODUCERS UCITS (IS0E GR ETF),DEU-XETRA,EUR,IE00B6R52036,IS0E:GR,2995,Fizyczna,"0,55",b. d.,Materiałowy,https://www.mdm.pl/addstatic/kid/IE00B6R52036.pdf
+50,ISHARES GOLD PRODUCERS UCITS (IS0E GR ETF),DEU-XETRA,EUR,IE00B6R52036,IS0E:GR,2995,Fizyczna,b.,b. d.,Świat,https://www.mdm.pl/addstatic/kid/IE00B6R52036.pdf
+51,COMSTAGE NYSE ARCA GOLD BUGS UCITS (CD91 GR ETF),DEU-XETRA,EUR,LU0488317701,CD91:GR,472,Fizyczna,"0,65",Niereg.,Materiałowy,https://www.mdm.pl/addstatic/kid/LU0488317701.pdf
+52,COMSTAGE NYSE ARCA GOLD BUGS UCITS (CD91 GR ETF),DEU-XETRA,EUR,LU0488317701,CD91:GR,472,Fizyczna,Niereg.,Niereg.,Świat,https://www.mdm.pl/addstatic/kid/LU0488317701.pdf
+53,ISHARES STOXX EUROPE 600 BASIC RESOURCES UCITS (SXPPEX GR ET),DEU-XETRA,EUR,DE000A0F5UK5,SXPPEX:GR,289,Fizyczna,"0,46",Kwartalnie,Materiałowy,https://www.mdm.pl/addstatic/kid/DE000A0F5UK5.pdf
+54,ISHARES STOXX EUROPE 600 BASIC RESOURCES UCITS (SXPPEX GR ET),DEU-XETRA,EUR,DE000A0F5UK5,SXPPEX:GR,289,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0F5UK5.pdf
+55,VANECK VECTORS JUNIOR GOLD MINERS UCITS (G2XJ GR ETF),DEU-XETRA,EUR,IE00BQQP9G91,G2XJ:GR,360,Fizyczna,"0,55",b. d.,Materiałowy,https://www.mdm.pl/addstatic/kid/IE00BQQP9G91.pdf
+56,VANECK VECTORS JUNIOR GOLD MINERS UCITS (G2XJ GR ETF),DEU-XETRA,EUR,IE00BQQP9G91,G2XJ:GR,360,Fizyczna,b.,b. d.,Świat,https://www.mdm.pl/addstatic/kid/IE00BQQP9G91.pdf
+57,ISHARES STOXX EUROPE 600 CHEMICALS UCITS (SX4PEX GR ET),DEU-XETRA,EUR,DE000A0H08E0,SX4PEX:GR,124,Fizyczna,"0,46",Kwartalnie,Materiałowy,https://www.mdm.pl/addstatic/kid/DE000A0H08E0.pdf
+58,ISHARES STOXX EUROPE 600 CHEMICALS UCITS (SX4PEX GR ET),DEU-XETRA,EUR,DE000A0H08E0,SX4PEX:GR,124,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08E0.pdf
+59,ISHARES STOXX EUROPE 600 CONSTRUCTION & MATERIALS UCITS (SXOPEX GR ET),DEU-XETRA,EUR,DE000A0H08F7,SXOPEX:GR,80,Fizyczna,"0,46",Kwartalnie,Materiałowy,https://www.mdm.pl/addstatic/kid/DE000A0H08F7.pdf
+60,ISHARES STOXX EUROPE 600 CONSTRUCTION & MATERIALS UCITS (SXOPEX GR ET),DEU-XETRA,EUR,DE000A0H08F7,SXOPEX:GR,80,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08F7.pdf
+61,VANECK VECTORS GOLD MINERS UCITS ETF (GDX LN ETF),GBR-LSE,USD,IE00BQQP9F84,GDX:LN,726,Fizyczna,"0,53",Nie wypłaca,Materiałowy,https://www.mdm.pl/addstatic/kid/IE00BQQP9F84.pdf
+62,VANECK VECTORS GOLD MINERS UCITS ETF (GDX LN ETF),GBR-LSE,USD,IE00BQQP9F84,GDX:LN,726,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BQQP9F84.pdf
+63,VANECK VECTORS GOLD MINERS UCITS ETF (GDX LN ETF),GBR-LSE,USD,IE00BQQP9F84,GDX:LN,726,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BQQP9F84.pdf
+64,ISHARES DEVELOPED MARKETS PROPERTY YIELD UCITS (IQQ6 GR ET),DEU-XETRA,EUR,IE00B1FZS350,IQQ6:GR,2194,Fizyczna,"0,59",Kwartalnie,Nieruchomości,https://www.mdm.pl/addstatic/kid/IE00B1FZS350.pdf
+65,ISHARES DEVELOPED MARKETS PROPERTY YIELD UCITS (IQQ6 GR ET),DEU-XETRA,EUR,IE00B1FZS350,IQQ6:GR,2194,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B1FZS350.pdf
+66,ISHARES EUROPEAN PROPERTY YIELD UCITS (IQQP GR ETF),DEU-XETRA,EUR,IE00B0M63284,IQQP:GR,1909,Fizyczna,"0,4",3x do roku,Nieruchomości,https://www.mdm.pl/addstatic/kid/IE00B0M63284.pdf
+67,ISHARES EUROPEAN PROPERTY YIELD UCITS (IPRP LN ETF),GBR-LSE,GBP,IE00B0M63284,IPRP:LN,1909,Fizyczna,"0,4",3x do roku,Nieruchomości,https://www.mdm.pl/addstatic/kid/IE00B0M63284.pdf
+68,ISHARES EUROPEAN PROPERTY YIELD UCITS (IQQP GR ETF),DEU-XETRA,EUR,IE00B0M63284,IQQP:GR,1909,Fizyczna,3x,3x do roku,Europa,https://www.mdm.pl/addstatic/kid/IE00B0M63284.pdf
+69,ISHARES EUROPEAN PROPERTY YIELD UCITS (IPRP LN ETF),GBR-LSE,GBP,IE00B0M63284,IPRP:LN,1909,Fizyczna,3x,3x do roku,Europa,https://www.mdm.pl/addstatic/kid/IE00B0M63284.pdf
+70,ISHARES US PROPERTY YIELD UCITS (IQQ7 GR ETF),DEU-XETRA,EUR,IE00B1FZSF77,IQQ7:GR,704,Fizyczna,"0,4",Kwartalnie,Nieruchomości,https://www.mdm.pl/addstatic/kid/IE00B1FZSF77.pdf
+71,ISHARES US PROPERTY YIELD UCITS (IUSP LN ETF),GBR-LSE,GBP,IE00B1FZSF77,IUSP:LN,704,Fizyczna,"0,4",Kwartalnie,Nieruchomości,https://www.mdm.pl/addstatic/kid/IE00B1FZSF77.pdf
+72,ISHARES US PROPERTY YIELD UCITS (IQQ7 GR ETF),DEU-XETRA,EUR,IE00B1FZSF77,IQQ7:GR,704,Fizyczna,"0,4",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B1FZSF77.pdf
+73,ISHARES US PROPERTY YIELD UCITS (IUSP LN ETF),GBR-LSE,GBP,IE00B1FZSF77,IUSP:LN,704,Fizyczna,"0,4",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B1FZSF77.pdf
+74,DB X-TRACKERS FTSE DEVELOPED EUROPE REAL ESTATE UCITS (D5BK GR ETF),DEU-XETRA,EUR,LU0489337690,D5BK:GR,497,Fizyczna,"0,33",Nie wypłaca,Nieruchomości,https://www.mdm.pl/addstatic/kid/LU0489337690.pdf
+75,DB X-TRACKERS FTSE DEVELOPED EUROPE REAL ESTATE UCITS (D5BK GR ETF),DEU-XETRA,EUR,LU0489337690,D5BK:GR,497,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0489337690.pdf
+76,ISHARES ASIA PROPERTY YIELD UCITS (IQQ4 GR ETF),DEU-XETRA,EUR,IE00B1FZS244,IQQ4:GR,420,Fizyczna,"0,59",Kwartalnie,Nieruchomości,https://www.mdm.pl/addstatic/kid/IE00B1FZS244.pdf
+77,ISHARES ASIA PROPERTY YIELD UCITS (IQQ4 GR ETF),DEU-XETRA,EUR,IE00B1FZS244,IQQ4:GR,420,Fizyczna,"0,59",Kwartalnie,Azja,https://www.mdm.pl/addstatic/kid/IE00B1FZS244.pdf
+78,SPDR DOW JONES GLOBAL REAL ESTATE UCITS (SPYJ GR ETF),DEU-XETRA,EUR,IE00B8GF1M35,SPYJ:GR,192,Fizyczna,"0,4",Kwartalnie,Nieruchomości,https://www.mdm.pl/addstatic/kid/IE00B8GF1M35.pdf
+79,SPDR DOW JONES GLOBAL REAL ESTATE UCITS (SPYJ GR ETF),DEU-XETRA,EUR,IE00B8GF1M35,SPYJ:GR,192,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B8GF1M35.pdf
+80,ISHARES UK PROPERTY UCITS (IUKP LN ETF),GBR-LSE,GBP,IE00B1TXLS18,IUKP:LN,809,Fizyczna,"0,4",Kwartalnie,Nieruchomości,https://www.mdm.pl/addstatic/kid/IE00B1TXLS18.pdf
+81,ISHARES UK PROPERTY UCITS (IUKP LN ETF),GBR-LSE,GBP,IE00B1TXLS18,IUKP:LN,809,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B1TXLS18.pdf
+82,ISHARES S&P 500 HEALTH CARE SECTOR UCITS (QDVG GR ETF),DEU-XETRA,EUR,IE00B43HR379,QDVG:GR,1590,Fizyczna,"0,15",Nie wypłaca,Ochrony zdrowia,https://www.mdm.pl/addstatic/kid/IE00B43HR379.pdf
+83,ISHARES S&P 500 HEALTH CARE SECTOR UCITS (QDVG GR ETF),DEU-XETRA,EUR,IE00B43HR379,QDVG:GR,1590,Fizyczna,"0,15",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B43HR379.pdf
+84,ISHARES HEALTHCARE INNOVATION UCITS (2B78 GR ETF),DEU-XETRA,EUR,IE00BYZK4776,2B78:GR,1303,Fizyczna,"0,4",Nie wypłaca,Ochrony zdrowia,https://www.mdm.pl/addstatic/kid/IE00BYZK4776.pdf
+85,ISHARES HEALTHCARE INNOVATION UCITS (2B78 GR ETF),DEU-XETRA,EUR,IE00BYZK4776,2B78:GR,1303,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYZK4776.pdf
+86,DB X-TRACKERS MSCI WORLD HEALTH CARE INDEX UCITS (XDWH GR ETF),DEU-XETRA,EUR,IE00BM67HK77,XDWH:GR,903,Fizyczna,"0,3",Nie wypłaca,Ochrony zdrowia,https://www.mdm.pl/addstatic/kid/IE00BM67HK77.pdf
+87,DB X-TRACKERS MSCI WORLD HEALTH CARE INDEX UCITS (XDWH GR ETF),DEU-XETRA,EUR,IE00BM67HK77,XDWH:GR,903,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BM67HK77.pdf
+88,LYXOR STOXX EUROPE 600 HEALTHCARE UCITS ETF - DIST (EHLT GR ETF),DEU-XETRA,EUR,LU2082997516,EHLT:GR,735,Synt.,"0,3",Niereg.,Ochrony zdrowia,https://www.mdm.pl/addstatic/kid/LU2082997516.pdf
+89,LYXOR STOXX EUROPE 600 HEALTHCARE UCITS ETF - DIST (EHLT GR ETF),DEU-XETRA,EUR,LU2082997516,EHLT:GR,735,Synt.,Niereg.,Niereg.,Europa,https://www.mdm.pl/addstatic/kid/LU2082997516.pdf
+90,ISHARES STOXX EUROPE 600 HEALTH CARE  UCITS (SXDPEX GR ET),DEU-XETRA,EUR,DE000A0Q4R36,SXDPEX:GR,780,Fizyczna,"0,46",Kwartalnie,Ochrony zdrowia,https://www.mdm.pl/addstatic/kid/DE000A0Q4R36.pdf
+91,ISHARES STOXX EUROPE 600 HEALTH CARE  UCITS (SXDPEX GR ET),DEU-XETRA,EUR,DE000A0Q4R36,SXDPEX:GR,780,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0Q4R36.pdf
+92,INVESCO NASDAQ BIOTECH UCITS (SBIO LN ETF),GBR-LSE,USD,IE00BQ70R696,SBIO:LN,688,Synt.,"0,4",Nie wypłaca,Ochrony zdrowia,https://www.mdm.pl/addstatic/kid/IE00BQ70R696.pdf
+93,INVESCO NASDAQ BIOTECH UCITS (SBIO LN ETF),GBR-LSE,USD,IE00BQ70R696,SBIO:LN,688,Synt.,"0,4",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BQ70R696.pdf
+94,INVESCO NASDAQ BIOTECH UCITS (SBIO LN ETF),GBR-LSE,USD,IE00BQ70R696,SBIO:LN,688,Synt.,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BQ70R696.pdf
+95,ISHARES GLOBAL INFRASTRUCTURE UCITS (IQQI GR ETF),DEU-XETRA,EUR,IE00B1FZS467,IQQI:GR,754,Fizyczna,"0,65",Kwartalnie,Przemysłowy,https://www.mdm.pl/addstatic/kid/IE00B1FZS467.pdf
+96,ISHARES GLOBAL INFRASTRUCTURE UCITS (IQQI GR ETF),DEU-XETRA,EUR,IE00B1FZS467,IQQI:GR,754,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B1FZS467.pdf
+97,ISHARES STOXX EUROPE 600 INDUSTRIAL GOODS & SERVICES UCITS (SXNPEX GR ET),DEU-XETRA,EUR,DE000A0H08J9,SXNPEX:GR,443,Fizyczna,"0,46",Kwartalnie,Przemysłowy,https://www.mdm.pl/addstatic/kid/DE000A0H08J9.pdf
+98,ISHARES STOXX EUROPE 600 INDUSTRIAL GOODS & SERVICES UCITS (SXNPEX GR ET),DEU-XETRA,EUR,DE000A0H08J9,SXNPEX:GR,443,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08J9.pdf
+99,ISHARES S&P500 IT SECTOR UCITS (QDVE GR ETF),DEU-XETRA,EUR,IE00B3WJKG14,QDVE:GR,1864,Fizyczna,"0,15",Nie wypłaca,Technologiczny,https://www.mdm.pl/addstatic/kid/IE00B3WJKG14.pdf
+100,ISHARES S&P 500 IT SECTOR UCITS (IUIT LN ETF),GBR-LSE,USD,IE00B3WJKG14,IUIT:LN,1864,Fizyczna,Nie,Nie wypłaca,Technologiczny,https://www.mdm.pl/addstatic/kid/IE00B3WJKG14.pdf
+101,ISHARES S&P500 IT SECTOR UCITS (QDVE GR ETF),DEU-XETRA,EUR,IE00B3WJKG14,QDVE:GR,1864,Fizyczna,"0,15",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B3WJKG14.pdf
+102,ISHARES S&P 500 IT SECTOR UCITS (IUIT LN ETF),GBR-LSE,USD,IE00B3WJKG14,IUIT:LN,1864,Fizyczna,"0,15",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B3WJKG14.pdf
+103,ISHARES S&P 500 IT SECTOR UCITS (IUIT LN ETF),GBR-LSE,USD,IE00B3WJKG14,IUIT:LN,1864,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B3WJKG14.pdf
+104,L&G CYBER SECURITY UCITS  (USPY GR ETF),DEU-XETRA,EUR,IE00BYPLS672,USPY:GR,1719,Fizyczna,"0,75",Nie wypłaca,Technologiczny,https://www.mdm.pl/addstatic/kid/IE00BYPLS672.pdf
+105,L&G CYBER SECURITY UCITS (USPY LN ETF),GBR-LSE,USD,IE00BYPLS672,USPY:LN,1719,Fizyczna,Nie,Nie wypłaca,Technologiczny,https://www.mdm.pl/addstatic/kid/IE00BYPLS672.pdf
+106,L&G CYBER SECURITY UCITS  (USPY GR ETF),DEU-XETRA,EUR,IE00BYPLS672,USPY:GR,1719,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYPLS672.pdf
+107,L&G CYBER SECURITY UCITS (USPY LN ETF),GBR-LSE,USD,IE00BYPLS672,USPY:LN,1719,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYPLS672.pdf
+108,L&G CYBER SECURITY UCITS (USPY LN ETF),GBR-LSE,USD,IE00BYPLS672,USPY:LN,1719,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYPLS672.pdf
+109,DB X-TRACKERS MSCI WORLD INFORMATION TECH UCITS (XDWT GR ETF),DEU-XETRA,EUR,IE00BM67HT60,XDWT:GR,1630,Fizyczna,"0,30",Nie wypłaca,Technologiczny,https://www.mdm.pl/addstatic/kid/IE00BM67HT60.pdf
+110,DB X-TRACKERS MSCI WORLD INFORMATION TECH UCITS (XDWT GR ETF),DEU-XETRA,EUR,IE00BM67HT60,XDWT:GR,1630,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BM67HT60.pdf
+111,ISHARES TECDAX UCITS (TDXPEX GR ETF),DEU-XETRA,EUR,DE0005933972,TDXPEX:GR,1029,Fizyczna,"0,51",Rocznie,Technologiczny,https://www.mdm.pl/addstatic/kid/DE0005933972.pdf
+112,ISHARES TECDAX UCITS (TDXPEX GR ETF),DEU-XETRA,EUR,DE0005933972,TDXPEX:GR,1029,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/DE0005933972.pdf
+113,LYXOR MSCI WORLD INFORMATION TECHNOLOGY UCITS (LYPG GR ETF),DEU-XETRA,EUR,LU0533033667,LYPG:GR,753,Synt.,"0,30",Nie wypłaca,Technologiczny,https://www.mdm.pl/addstatic/kid/LU0533033667.pdf
+114,LYXOR MSCI WORLD INFORMATION TECHNOLOGY UCITS (LYPG GR ETF),DEU-XETRA,EUR,LU0533033667,LYPG:GR,753,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/LU0533033667.pdf
+115,HANETF- EMQQ EM INTERNET & ECOMMERCE UCITS – ACC (EMQQ LN ETF),GBR-LSE,USD,IE00BFYN8Y92,EMQQ:LN,112,Fizyczna,"0,86",Nie wypłaca,Technologiczny,https://www.mdm.pl/addstatic/kid/IE00BFYN8Y92.pdf
+116,HANETF- EMQQ EM INTERNET & ECOMMERCE UCITS – ACC (EMQQ LN ETF),GBR-LSE,USD,IE00BFYN8Y92,EMQQ:LN,112,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BFYN8Y92.pdf
+117,HANETF- EMQQ EM INTERNET & ECOMMERCE UCITS – ACC (EMQQ LN ETF),GBR-LSE,USD,IE00BFYN8Y92,EMQQ:LN,112,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BFYN8Y92.pdf
+118,ISHARES STOXX EUROPE 600 TECHNOLOGY UCITS (SX8PEX GR ET),DEU-XETRA,EUR,DE000A0H08Q4,SX8PEX:GR,373,Fizyczna,Kwartalnie,Kwartalnie,Technologiczny,https://www.mdm.pl/addstatic/kid/DE000A0H08Q4.pdf
+119,ISHARES STOXX EUROPE 600 TECHNOLOGY UCITS (SX8PEX GR ET),DEU-XETRA,EUR,DE000A0H08Q4,SX8PEX:GR,373,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08Q4.pdf
+120,DB X-TRACKERS MSCI WORLD TELECOM UCITS (XWTS GR ETF),DEU-XETRA,EUR,IE00BM67HR47,XWTS:GR,218,Fizyczna,Nie,Nie wypłaca,Technologiczny,https://www.mdm.pl/addstatic/kid/IE00BM67HR47.pdf
+121,DB X-TRACKERS MSCI WORLD TELECOM UCITS (XWTS GR ETF),DEU-XETRA,EUR,IE00BM67HR47,XWTS:GR,218,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BM67HR47.pdf
+122,ISHARES STOXX EUROPE 600 TELECOM UCITS (SXKPEX GR ET),DEU-XETRA,EUR,DE000A0H08R2,SXKPEX:GR,588,Fizyczna,Kwartalnie,Kwartalnie,Telekomunikacyjny,https://www.mdm.pl/addstatic/kid/DE000A0H08R2.pdf
+123,ISHARES STOXX EUROPE 600 TELECOM UCITS (SXKPEX GR ET),DEU-XETRA,EUR,DE000A0H08R2,SXKPEX:GR,588,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0H08R2.pdf
+124,ISHARES GLOBAL WATER UCITS (DH2O LN ETF),GBR-LSE,USD,IE00B1TXK627,DH2O:LN,1340,Fizyczna,Półrocznie,Półrocznie,Użyteczności publicznej,https://www.mdm.pl/addstatic/kid/IE00B1TXK627.pdf
+125,ISHARES GLOBAL WATER UCITS (IQQQ GR ETF),DEU-XETRA,EUR,IE00B1TXK627,IQQQ:GR,1340,Fizyczna,Półrocznie,Półrocznie,Użyteczności publicznej,https://www.mdm.pl/addstatic/kid/IE00B1TXK627.pdf
+126,ISHARES GLOBAL WATER UCITS (IQQQ GR ETF),DEU-XETRA,EUR,IE00B1TXK627,IQQQ:GR,1340,Fizyczna,Półrocznie,Półrocznie,Świat,https://www.mdm.pl/addstatic/kid/IE00B1TXK627.pdf
+127,ISHARES GLOBAL WATER UCITS (DH2O LN ETF),GBR-LSE,USD,IE00B1TXK627,DH2O:LN,1340,Fizyczna,Półrocznie,Półrocznie,Świat,https://www.mdm.pl/addstatic/kid/IE00B1TXK627.pdf
+128,ISHARES GLOBAL WATER UCITS (DH2O LN ETF),GBR-LSE,USD,IE00B1TXK627,DH2O:LN,1340,Fizyczna,Półrocznie,Półrocznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B1TXK627.pdf
+129,ISHARES STOXX EUROPE 600 UTILITIES UCITS (SX6PEX GR ET),DEU-XETRA,EUR,DE000A0Q4R02,SX6PEX:GR,467,Fizyczna,Kwartalnie,Kwartalnie,Użyteczności publicznej,https://www.mdm.pl/addstatic/kid/DE000A0Q4R02.pdf
+130,ISHARES S&P500 UTILITIES UCITS (2B7A GR ETF),DEU-XETRA,EUR,IE00B4KBBD01,2B7A:GR,30,Fizyczna,Nie,Nie wypłaca,Użyteczności publicznej,https://www.mdm.pl/addstatic/kid/IE00B4KBBD01.pdf
+131,ISHARES S&P500 UTILITIES UCITS (2B7A GR ETF),DEU-XETRA,EUR,IE00B4KBBD01,2B7A:GR,30,Fizyczna,"0,15",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B4KBBD01.pdf
+132,ISHARES MSCI USA SRI UCITS (QDVR GR ETF),DEU-XETRA,EUR,IE00BYVJRR92,QDVR:GR,3514,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BYVJRR92.pdf
+133,ISHARES MSCI USA SRI UCITS (QDVR GR ETF),DEU-XETRA,EUR,IE00BYVJRR92,QDVR:GR,3514,Fizyczna,"0,2",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BYVJRR92.pdf
+134,ISHARES AUTOMATION & ROBOTICS UCITS (2B76 GR ETF),DEU-XETRA,EUR,IE00BYZK4552,2B76:GR,2744,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BYZK4552.pdf
+135,ISHARES AUTOMATION & ROBOTICS UCITS (RBOT LN ETF),GBR-LSE,USD,IE00BYZK4552,RBOT:LN,2744,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BYZK4552.pdf
+136,ISHARES AUTOMATION & ROBOTICS UCITS (2B76 GR ETF),DEU-XETRA,EUR,IE00BYZK4552,2B76:GR,2744,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYZK4552.pdf
+137,ISHARES AUTOMATION & ROBOTICS UCITS (RBOT LN ETF),GBR-LSE,USD,IE00BYZK4552,RBOT:LN,2744,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYZK4552.pdf
+138,ISHARES AUTOMATION & ROBOTICS UCITS (RBOT LN ETF),GBR-LSE,USD,IE00BYZK4552,RBOT:LN,2744,Fizyczna,"0,4",Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYZK4552.pdf
+139,ISHARES GLOBAL CLEAN ENERGY UCITS (IQQH GR ETF),DEU-XETRA,EUR,IE00B1XNHC34,IQQH:GR,1440,Fizyczna,Półrocznie,Półrocznie,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00B1XNHC34.pdf
+140,ISHARES GLOBAL CLEAN ENERGY UCITS (IQQH GR ETF),DEU-XETRA,EUR,IE00B1XNHC34,IQQH:GR,1440,Fizyczna,Półrocznie,Półrocznie,Świat,https://www.mdm.pl/addstatic/kid/IE00B1XNHC34.pdf
+141,VANECK VECTORS VIDEO GAMING AND ESPORTS UCITS  (ESP0 GR ETF),DEU-XETRA,EUR,IE00BYWQWR46,ESP0:GR,518,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BYWQWR46.pdf
+142,VANECK VECTORS VIDEO GAMING AND ESPORTS UCITS  (ESP0 GR ETF),DEU-XETRA,EUR,IE00BYWQWR46,ESP0:GR,518,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYWQWR46.pdf
+143,DB X-TRACKERS S&P GLOBAL INFRASTRURE UCITS (XSGI GR ETF),DEU-XETRA,EUR,LU0322253229,XSGI:GR,175,Synt.,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/LU0322253229.pdf
+144,DB X-TRACKERS S&P GLOBAL INFRASTRURE UCITS (XSGI GR ETF),DEU-XETRA,EUR,LU0322253229,XSGI:GR,175,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/LU0322253229.pdf
+145,LYXOR ROBOTICS & AI UCITS (ROAI GR ETF),DEU-XETRA,EUR,LU1838002480,ROAI:GR,165,Synt.,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/LU1838002480.pdf
+146,DB X-TRACKERS LPX PRIVATE EQUITY SWAP UCITS (XLPE GR ETF),DEU-XETRA,EUR,LU0322250712,XLPE:GR,151,Synt.,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/LU0322250712.pdf
+147,DB X-TRACKERS LPX PRIVATE EQUITY SWAP UCITS (XLPE GR ETF),DEU-XETRA,EUR,LU0322250712,XLPE:GR,151,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/LU0322250712.pdf
+148,INVESCO ELWOOD GLOBAL BLOCKCHAIN UCITS (BNXG GR ETF),DEU-XETRA,EUR,IE00BGBN6P67,BNXG:GR,177,Fizyczna,b.,b. d.,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BGBN6P67.pdf
+149,INVESCO ELWOOD GLOBAL BLOCKCHAIN UCITS (BCHN LN ETF),GBR-LSE,USD,IE00BGBN6P67,BCHN:LN,177,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BGBN6P67.pdf
+150,INVESCO ELWOOD GLOBAL BLOCKCHAIN UCITS (BNXG GR ETF),DEU-XETRA,EUR,IE00BGBN6P67,BNXG:GR,177,Fizyczna,b.,b. d.,Świat,https://www.mdm.pl/addstatic/kid/IE00BGBN6P67.pdf
+151,INVESCO ELWOOD GLOBAL BLOCKCHAIN UCITS (BCHN LN ETF),GBR-LSE,USD,IE00BGBN6P67,BCHN:LN,177,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BGBN6P67.pdf
+152,INVESCO ELWOOD GLOBAL BLOCKCHAIN UCITS (BCHN LN ETF),GBR-LSE,USD,IE00BGBN6P67,BCHN:LN,177,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BGBN6P67.pdf
+153,ISHARES DIGITALISATION UCITS (DGTL LN ETF),GBR-LSE,USD,IE00BYZK4883,DGTL:LN,923,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BYZK4883.pdf
+154,ISHARES DIGITALISATION UCITS (DGTL LN ETF),GBR-LSE,USD,IE00BYZK4883,DGTL:LN,923,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYZK4883.pdf
+155,ISHARES DIGITALISATION UCITS (DGTL LN ETF),GBR-LSE,USD,IE00BYZK4883,DGTL:LN,923,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYZK4883.pdf
+156,ISHARES MSCI EM SRI UCITS (SUSM LN ETF),GBR-LSE,USD,IE00BYVJRP78,SUSM:LN,866,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BYVJRP78.pdf
+157,ISHARES MSCI EM SRI UCITS (SUSM LN ETF),GBR-LSE,USD,IE00BYVJRP78,SUSM:LN,866,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYVJRP78.pdf
+158,ISHARES MSCI EM SRI UCITS (SUSM LN ETF),GBR-LSE,USD,IE00BYVJRP78,SUSM:LN,866,Fizyczna,"0,25",Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYVJRP78.pdf
+159,ISHARES AGEING POPULATION UCITS (AGED LN ETF),GBR-LSE,USD,IE00BYZK4669,AGED:LN,276,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BYZK4669.pdf
+160,ISHARES AGEING POPULATION UCITS (AGED LN ETF),GBR-LSE,USD,IE00BYZK4669,AGED:LN,276,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYZK4669.pdf
+161,ISHARES AGEING POPULATION UCITS (AGED LN ETF),GBR-LSE,USD,IE00BYZK4669,AGED:LN,276,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYZK4669.pdf
+162,ISHARES ELECTRIC VEHICLES & DRIVING TECHNOLOGY UCITS (ECAR LN ETF),GBR-LSE,USD,IE00BGL86Z12,ECAR:LN,114,Fizyczna,Nie,Nie wypłaca,ETF tematyczne,https://www.mdm.pl/addstatic/kid/IE00BGL86Z12.pdf
+163,ISHARES ELECTRIC VEHICLES & DRIVING TECHNOLOGY UCITS (ECAR LN ETF),GBR-LSE,USD,IE00BGL86Z12,ECAR:LN,114,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BGL86Z12.pdf
+164,ISHARES ELECTRIC VEHICLES & DRIVING TECHNOLOGY UCITS (ECAR LN ETF),GBR-LSE,USD,IE00BGL86Z12,ECAR:LN,114,Fizyczna,"0,4",Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BGL86Z12.pdf
+165,ISHARES MSCI SOUTH AFRICA UCITS (IRSA LN ETF),GBR-LSE,USD,IE00B52XQP83,IRSA:LN,121,Fizyczna,Nie,Nie wypłaca,Afryka,https://www.mdm.pl/addstatic/kid/IE00B52XQP83.pdf
+166,ISHARES MSCI SOUTH AFRICA UCITS (IRSA LN ETF),GBR-LSE,USD,IE00B52XQP83,IRSA:LN,121,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B52XQP83.pdf
+167,ISHARES MSCI EM LATAM UCITS (IUSC GR ETF),DEU-XETRA,EUR,IE00B27YCK28,IUSC:GR,159,Fizyczna,Półrocznie,Półrocznie,Ameryka Południowa,https://www.mdm.pl/addstatic/kid/IE00B27YCK28.pdf
+168,DB X-TRACKERS MSCI BRAZIL UCITS (XMBR GR ETF),DEU-XETRA,EUR,LU0292109344,XMBR:GR,136,Fizyczna,Nie,Nie wypłaca,Ameryka Południowa,https://www.mdm.pl/addstatic/kid/LU0292109344.pdf
+169,VANGUARD S&P 500 ETF UCITS (VUSA GR ETF),DEU-XETRA,EUR,IE00B3XXRP09,VUSA:GR,26254,Fizyczna,"0,07",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B3XXRP09.pdf
+170,VANGUARD S&P 500 UCITS (VUSA LN ETF),GBR-LSE,GBP,IE00B3XXRP09,VUSA:LN,26254,Fizyczna,"0,07",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B3XXRP09.pdf
+171,ISHARES CORE S&P 500 UCITS (IUSA GR ETF),DEU-XETRA,EUR,IE0031442068,IUSA:GR,10130,Fizyczna,"0,07",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE0031442068.pdf
+172,INVESCO MARKETS PLC S&P 500 UCITS (P500 GR ETF),DEU-XETRA,EUR,IE00B3YCGJ38,P500:GR,10062,Synt.,"0,05",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B3YCGJ38.pdf
+173,DB X-TRACKERS S&P 500 UCITS (D5BM GR ETF),DEU-XETRA,EUR,LU0490618542,D5BM:GR,6146,Synt.,"0,15",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/LU0490618542.pdf
+174,DB X-TRACKERS MSCI USA INDEX UCITS (XD9U GR ETF),DEU-XETRA,EUR,IE00BJ0KDR00,XD9U:GR,7195,Fizyczna,"0,07",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BJ0KDR00.pdf
+175,DB X-TRACKERS MSCI USA INDEX UCITS (XMUS GR ETF),DEU-XETRA,EUR,LU0274210672,XMUS:GR,2557,Synt.,"0,3",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/LU0274210672.pdf
+176,ISHARES NASDAQ-100 UCITS (NDXEX GR ETF),DEU-XETRA,EUR,DE000A0F5UF5,NDXEX:GR,2350,Fizyczna,"0,31",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/DE000A0F5UF5.pdf
+177,SPDR S&P US DIVIDEND ARISTOCRATS UCITS (SPYD GR ETF),DEU-XETRA,EUR,IE00B6YX5D40,SPYD:GR,2222,Fizyczna,"0,35",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B6YX5D40.pdf
+178,SPDR S&P US DIVIDEND ARISTOCRATS UCITS (UDVD LN ETF),GBR-LSE,USD,IE00B6YX5D40,UDVD:LN,2222,Fizyczna,"0,35",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B6YX5D40.pdf
+179,SPDR S&P US DIVIDEND ARISTOCRATS UCITS (UDVD LN ETF),GBR-LSE,USD,IE00B6YX5D40,UDVD:LN,2222,Fizyczna,"0,35",Kwartalnie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B6YX5D40.pdf
+180,ISHARES EDGE S&P 500 MINIMUM VOLATILITY UCITS (IBCK GR ETF),DEU-XETRA,EUR,IE00B6SPMN59,IBCK:GR,2222,Fizyczna,"0,2",b. d.,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B6SPMN59.pdf
+181,ISHARES EDGE MSCI USA VALUE FACTOR UCITS (QDVI GR ETF),DEU-XETRA,EUR,IE00BD1F4M44,QDVI:GR,1035,Fizyczna,"0,2",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BD1F4M44.pdf
+182,ISHARES EDGE MSCI USA QUALITY FACTOR UCITS (QDVB GR ETF),DEU-XETRA,EUR,IE00BD1F4L37,QDVB:GR,885,Fizyczna,"0,2",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BD1F4L37.pdf
+183,ISHARES S&P SMALL CAP 600 UCITS (IUS3GR ETF),DEU-XETRA,EUR,IE00B2QWCY14,IUS3:GR,790,Fizyczna,"0,4",Półrocznie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B2QWCY14.pdf
+184,ISHARES S&P SMALL CAP 600 UCITS (IDP6 LN ETF),GBR-LSE,USD,IE00B2QWCY14,IDP6:LN,790,Fizyczna,"0,4",Półrocznie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B2QWCY14.pdf
+185,ISHARES S&P SMALL CAP 600 UCITS (IDP6 LN ETF),GBR-LSE,USD,IE00B2QWCY14,IDP6:LN,790,Fizyczna,Półrocznie,Półrocznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B2QWCY14.pdf
+186,XTRACKERS S&P 500 EQUAL WEIGHT UCITS (XDEW GR ETF),DEU-XETRA,EUR,IE00BLNMYC90,XDEW:GR,587,Fizyczna,"0,25",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BLNMYC90.pdf
+187,ISHARES EDGE MSCI USA MOMENTUM FACTOR UCITS (QDVA GR ETF),DEU-XETRA,EUR,IE00BD1F4N50,QDVA:GR,631,Fizyczna,"0,2",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BD1F4N50.pdf
+188,ISHARES EDGE MSCI USA MOMENTUM FACTOR UCITS (IUMO LN ETF),GBR-LSE,USD,IE00BD1F4N50,IUMO:LN,631,Fizyczna,"0,2",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BD1F4N50.pdf
+189,ISHARES EDGE MSCI USA MOMENTUM FACTOR UCITS (IUMO LN ETF),GBR-LSE,USD,IE00BD1F4N50,IUMO:LN,631,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BD1F4N50.pdf
+190,FIDELITY US QUALITY INCOME UCITS (FUSA GR ETF),DEU-XETRA,EUR,IE00BYXVGY31,FUSA:GR,531,Fizyczna,"0,3",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BYXVGY31.pdf
+191,FIDELITY US QUALITY INCOME UCITS (FUSA LN ETF),GBR-LSE,USD,IE00BYXVGY31,FUSA:LN,531,Fizyczna,"0,3",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BYXVGY31.pdf
+192,FIDELITY US QUALITY INCOME UCITS (FUSA LN ETF),GBR-LSE,USD,IE00BYXVGY31,FUSA:LN,531,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYXVGY31.pdf
+193,ISHARES DOW JONES INDUSTRIAL AVERAGE UCITS (SXRU GR ETF),DEU-XETRA,EUR,IE00B53L4350,SXRU:GR,437,Fizyczna,"0,33",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B53L4350.pdf
+194,DB X-TRACKERS S&P 500 INVERSE DAILY UCITS (DXS3 GR ETF),DEU-XETRA,EUR,LU0322251520,DXS3:GR,383,Synt.,"0,5",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/LU0322251520.pdf
+195,DB X-TRACKERS S&P 500 INVERSE DAILY UCITS (DXS3 GR ETF),DEU-XETRA,EUR,LU0322251520,DXS3:GR,383,Synt.,"0,5",Nie wypłaca,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/LU0322251520.pdf
+196,ISHARES DOW JONES U.S. SELECT DIVIDEND UCITS (DJDVPEX GR),DEU-XETRA,EUR,DE000A0D8Q49,DJDVPEX:GR,253,Fizyczna,"0,31",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/DE000A0D8Q49.pdf
+197,DB X-TRACKERS RUSSELL MIDCAP UCITS (XRSM GR ETF),DEU-XETRA,EUR,IE00BJZ2DC62,XRSM:GR,98,Fizyczna,"0,35",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00BJZ2DC62.pdf
+198,XTRACKERS S&P 500 2x INVERSE DAILY SWAP UCITS (DBPK GR ETF),DEU-XETRA,EUR,LU0411078636,DBPK:GR,101,Synt.,"0,7",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/LU0411078636.pdf
+199,XTRACKERS S&P 500 2x INVERSE DAILY SWAP UCITS (DBPK GR ETF),DEU-XETRA,EUR,LU0411078636,DBPK:GR,101,Synt.,"0,7",Nie wypłaca,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/LU0411078636.pdf
+200,DB X-TRACKERS MSCI MEXICO UCITS (D5BI GR ETF),DEU-XETRA,EUR,LU0476289466,D5BI:GR,42,Fizyczna,"0,65",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/LU0476289466.pdf
+201,ISHARES CORE S&P500 UCITS (CSP1 LN ETF),GBR-LSE,GBP,IE00B5BMR087,CSP1:LN,38375,Fizyczna,"0,07",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B5BMR087.pdf
+202,ISHARES NASDAQ 100 USD ACC (CNDX LN ETF),GBR-LSE,USD,IE00B53SZB19,CNDX:LN,6089,Fizyczna,"0,33",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B53SZB19.pdf
+203,ISHARES NASDAQ 100 USD ACC (CNDX LN ETF),GBR-LSE,USD,IE00B53SZB19,CNDX:LN,6089,Fizyczna,"0,33",Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B53SZB19.pdf
+204,SPDR S&P 500 UCITS (SPY5 LN ETF),GBR-LSE,USD,IE00B6YX5C33,SPY5:LN,4563,Fizyczna,"0,09",Kwartalnie,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B6YX5C33.pdf
+205,SPDR S&P 500 UCITS (SPY5 LN ETF),GBR-LSE,USD,IE00B6YX5C33,SPY5:LN,4563,Fizyczna,"0,09",Kwartalnie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B6YX5C33.pdf
+206,SPDR S&P 400 US MID CAP UCITS (SPY4 LN ETF),GBR-LSE,USD,IE00B4YBJ215,SPY4:LN,696,Fizyczna,"0,3",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/IE00B4YBJ215.pdf
+207,SPDR S&P 400 US MID CAP UCITS (SPY4 LN ETF),GBR-LSE,USD,IE00B4YBJ215,SPY4:LN,696,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B4YBJ215.pdf
+208,LYXOR RUSSELL 1000 GROWTH UCITS (RUSG LN ETF),GBR-LSE,USD,FR0011119171,RUSG:LN,256,Synt.,"0,19",Nie wypłaca,Ameryka Północna,https://www.mdm.pl/addstatic/kid/FR0011119171.pdf
+209,LYXOR RUSSELL 1000 GROWTH UCITS (RUSG LN ETF),GBR-LSE,USD,FR0011119171,RUSG:LN,256,Synt.,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/FR0011119171.pdf
+210,ISHARES MSCI AUSTRLIA UCITS (SAUS LN ETF),GBR-LSE,GBP,IE00B5377D42,SAUS:LN,265,Fizyczna,"0,5",Nie wypłaca,Australia,https://www.mdm.pl/addstatic/kid/IE00B5377D42.pdf
+211,DB X-TRACKERS MSCI JAPAN INDEX UCITS (XMJP GR ETF),DEU-XETRA,EUR,LU0274209740,XMJP:GR,2264,Fizyczna,"0,3",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/LU0274209740.pdf
+212,DB X-TRACKERS MSCI JAPAN UCITS (XMK9 GR ETF),DEU-XETRA,EUR,LU0659580079,XMK9:GR,2264,Fizyczna,"0,4",b. d.,Azja,https://www.mdm.pl/addstatic/kid/LU0659580079.pdf
+213,DB X-TRACKERS NIKKEI 225 UCITS (XDJP GR ETF),DEU-XETRA,EUR,LU0839027447,XDJP:GR,1424,Fizyczna,"0,09",Rocznie,Azja,https://www.mdm.pl/addstatic/kid/LU0839027447.pdf
+214,DB X-TRACKERS MSCI CHINA UCITS (XCS6 GR ETF),DEU-XETRA,EUR,LU0514695690,XCS6:GR,1556,Fizyczna,"0,65",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/LU0514695690.pdf
+215,LYXOR MSCI INDIA UCITS (LYXINR GR ET),DEU-XETRA,EUR,FR0010361683,LYXINR:GR,902,Synt.,"0,85",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/FR0010361683.pdf
+216,DB X-TRACKERS EM ASIA UCITS (XMAS GR ETF),DEU-XETRA,EUR,LU0292107991,XMAS:GR,569,Synt.,"0,65",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/LU0292107991.pdf
+217,DB X-TRACKERS MSCI AC ASIA EX JAPAN SWAP UCITS (XAXJ GR ETF),DEU-XETRA,EUR,LU0322252171,XAXJ:GR,576,Synt.,"0,65",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/LU0322252171.pdf
+218,XTRACKERS HARVEST CSI300 UCITS (RQFI GR ETF),DEU-XETRA,EUR,LU0875160326,RQFI:GR,587,Fizyczna,"0,65",Rocznie,Azja,https://www.mdm.pl/addstatic/kid/LU0875160326.pdf
+219,FTSE VIETNAM SWAP UCITS (XFVT GR ETF),DEU-XETRA,EUR,LU0322252924,XFVT:GR,226,Synt.,"0,85",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/LU0322252924.pdf
+220,ISHARES DOW JONES ASIA PACIFIC UCITS (APSDEX GR ET),DEU-XETRA,EUR,DE000A0H0744,APSDEX:GR,237,Fizyczna,"0,31",Kwartalnie,Azja,https://www.mdm.pl/addstatic/kid/DE000A0H0744.pdf
+221,ISHARES MSCI SAUDI ARABIA CAPPED UCITS (IUSS GR ETF),DEU-XETRA,EUR,IE00BYYR0489,IUSS:GR,210,Fizyczna,"0,6",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/IE00BYYR0489.pdf
+222,DB X-TRACKERS MSCI INDIA SWAP UCITS (XCS5 GR ETF),DEU-XETRA,EUR,LU0514695187,XCS5:GR,83,Synt.,"0,75",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/LU0514695187.pdf
+223,XTRACKERS MSCI TAIWAN UCITS (XMTW GR ETF),DEU-XETRA,EUR,LU0292109187,XMTW:GR,135,Fizyczna,"0,65",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/LU0292109187.pdf
+224,ISHARES CORE MSCI JAPAN IMI UCITS (SJPA LN ETF),GBR-LSE,GBP,IE00B4L5YX21,SJPA:LN,3390,Fizyczna,"0,15",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/IE00B4L5YX21.pdf
+225,APDR S&P PAN ASIA DIVIDEND ARISTOCRATS UCITS (ASDV LN ETF),GBR-LSE,USD,IE00B9KNR336,ASDV:LN,203,Fizyczna,"0,55",Półrocznie,Azja,https://www.mdm.pl/addstatic/kid/IE00B9KNR336.pdf
+226,APDR S&P PAN ASIA DIVIDEND ARISTOCRATS UCITS (ASDV LN ETF),GBR-LSE,USD,IE00B9KNR336,ASDV:LN,203,Fizyczna,"0,55",Półrocznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B9KNR336.pdf
+227,ISHARES MSCI AC FAR EAST EX-JAPAN UCITS  (IFFF LN ETF),GBR-LSE,GBP,IE00B0M63730,IFFF:LN,2399,Fizyczna,"0,74",Kwartalnie,Azja,https://www.mdm.pl/addstatic/kid/IE00B0M63730.pdf
+228,ISHARES MSCI JAPAN UCITS (IJPN LN ETF),GBR-LSE,GBP,IE00B02KXH56,IJPN:LN,1071,Fizyczna,"0,59",Półrocznie,Azja,https://www.mdm.pl/addstatic/kid/IE00B02KXH56.pdf
+229,SPDR MSCI EMERGING MARKETS ASIA UCITS (EMAD LN ETF),GBR-LSE,USD,IE00B466KX20,EMAD:LN,974,Fizyczna,"0,55",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/IE00B466KX20.pdf
+230,SPDR MSCI EMERGING MARKETS ASIA UCITS (EMAD LN ETF),GBR-LSE,USD,IE00B466KX20,EMAD:LN,974,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B466KX20.pdf
+231,ISHARES MSCI CHINA A UCITS (CNYA LN ETF),GBR-LSE,USD,IE00BQT3WG13,CNYA:LN,1178,Fizyczna,"0,4",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/IE00BQT3WG13.pdf
+232,ISHARES MSCI CHINA A UCITS (CNYA LN ETF),GBR-LSE,USD,IE00BQT3WG13,CNYA:LN,1178,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BQT3WG13.pdf
+233,ISHARES MSCI KOREA UCITS (IKOR LN ETF),GBR-LSE,GBP,IE00B0M63391,IKOR:LN,482,Fizyczna,"0,74",Półrocznie,Azja,https://www.mdm.pl/addstatic/kid/IE00B0M63391.pdf
+234,ISHARES MSCI EM ASIA UCITS (CEA1 LN ETF),GBR-LSE,GBP,IE00B5L8K969,CEA1:LN,816,Fizyczna,"0,65",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/IE00B5L8K969.pdf
+235,ISHARES CHINA LARGE CAP UCITS (FXC LN ETF),GBR-LSE,GBP,IE00B02KXK85,FXC:LN,514,Fizyczna,"0,74",Kwartalnie,Azja,https://www.mdm.pl/addstatic/kid/IE00B02KXK85.pdf
+236,ISHARES MSCI INDIA UCITS ETF USD (ACC) (NDIA LN ETF),GBR-LSE,USD,IE00BZCQB185,NDIA:LN,411,Fizyczna,"0,65",Nie wypłaca,Azja,https://www.mdm.pl/addstatic/kid/IE00BZCQB185.pdf
+237,ISHARES MSCI INDIA UCITS ETF USD (ACC) (NDIA LN ETF),GBR-LSE,USD,IE00BZCQB185,NDIA:LN,411,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BZCQB185.pdf
+238,HSBC MSCI INDONESIA UCITS (HIDD LN ETF),GBR-LSE,USD,IE00B46G8275,HIDD:LN,47,Fizyczna,"0,6",Niereg.,Azja,https://www.mdm.pl/addstatic/kid/IE00B46G8275.pdf
+239,HSBC MSCI INDONESIA UCITS (HIDD LN ETF),GBR-LSE,USD,IE00B46G8275,HIDD:LN,47,Fizyczna,Niereg.,Niereg.,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B46G8275.pdf
+240,ISHARES EURO STOXX 50 UCITS (SX5EEX GR ET),DEU-XETRA,EUR,DE0005933956,SX5EEX:GR,5884,Fizyczna,"0,1",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0005933956.pdf
+241,ISHARES CORE DAX UCITS (DAXEX GR ETF),DEU-XETRA,EUR,DE0005933931,DAXEX:GR,6868,Fizyczna,"0,16",Rocznie,Europa,https://www.mdm.pl/addstatic/kid/DE0005933931.pdf
+242,DB X-TRACKERS EURO STOXX 50 UCITS (XESC GR ETF),DEU-XETRA,EUR,LU0380865021,XESC:GR,6825,Fizyczna,"0,09",Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0380865021.pdf
+243,DB X-TRACKERS EURO STOXX 50 UCITS (XESX GR ETF),DEU-XETRA,EUR,LU0274211217,XESX:GR,6825,Fizyczna,"0,09",Rocznie,Europa,https://www.mdm.pl/addstatic/kid/LU0274211217.pdf
+244,ISHARES STOXX EUROPE 600 UCITS (SXXPIEX GR E),DEU-XETRA,EUR,DE0002635307,SXXPIEX:GR,6661,Fizyczna,"0,2",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0002635307.pdf
+245,ISHARES EURO STOXX 50 UCITS  (EUN2 GR ETF),DEU-XETRA,EUR,IE0008471009,EUN2:GR,4906,Fizyczna,"0,1",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE0008471009.pdf
+246,DB X-TRACKERS DAX UCITS (XDAX GR ETF),DEU-XETRA,EUR,LU0274211480,XDAX:GR,4252,Fizyczna,"0,09",Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0274211480.pdf
+247,VANGUARD FTSE 250 UCITS (VMID GR ETF),DEU-XETRA,EUR,IE00BKX55Q28,VMID:GR,1916,Fizyczna,"0,1",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00BKX55Q28.pdf
+248,VANGUARD FTSE 250 UCITS (VMID LN ETF),GBR-LSE,GBP,IE00BKX55Q28,VMID:LN,1916,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00BKX55Q28.pdf
+249,DB X-TRACKERS EUROPE INDEX UCITS (XMEU GR ETF),DEU-XETRA,EUR,LU0274209237,XMEU:GR,3893,Fizyczna,"0,12",Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0274209237.pdf
+250,DB X-TRACKERS MSCI EMU INDEX UCITS (XD5E GR ETF),DEU-XETRA,EUR,LU0846194776,XD5E:GR,2342,Fizyczna,"0,12",Rocznie,Europa,https://www.mdm.pl/addstatic/kid/LU0846194776.pdf
+251,ISHARES EURO STOXX UCITS (SXXEEX GR ET),DEU-XETRA,EUR,DE000A0D8Q07,SXXEEX:GR,1955,Fizyczna,"0,2",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE000A0D8Q07.pdf
+252,SPDR S&P EURO DIVIDEND ARISTOCRATS UCITS  (SPYW GR ETF),DEU-XETRA,EUR,IE00B5M1WJ87,SPYW:GR,1540,Fizyczna,Półrocznie,Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B5M1WJ87.pdf
+253,ISHARES CORE MDAX UCITS (MDAXEX GR ET),DEU-XETRA,EUR,DE0005933923,MDAXEX:GR,1701,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/DE0005933923.pdf
+254,DB X-TRACKERS STOXX EUROPE 600 UCITS (XSX6 GR ETF),DEU-XETRA,EUR,LU0328475792,XSX6:GR,1681,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0328475792.pdf
+255,ISHARES EDGE MSCI EUROPE MINIMUM VOLATILITY UCITS (EUN0 GR ETF),DEU-XETRA,EUR,IE00B86MWN23,EUN0:GR,1345,Fizyczna,b.,b. d.,Europa,https://www.mdm.pl/addstatic/kid/IE00B86MWN23.pdf
+256,ISHARES UK DIVIDEND UCITS (IQQD GR ETF),DEU-XETRA,EUR,IE00B0M63060,IQQD:GR,802,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B0M63060.pdf
+257,DEKA DAX UCITS (ETFDAX GR ET),DEU-XETRA,EUR,DE000ETFL011,ETFDAX:GR,985,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/DE000ETFL011.pdf
+258,ISHARES MSCI EMU SMALL CAP UCITS (SXRJ GR ETF),DEU-XETRA,EUR,IE00B3VWMM18,SXRJ:GR,788,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/IE00B3VWMM18.pdf
+259,DB X-TRACKERS SWISS LARGE CAP UCITS (XSMI GR ETF),DEU-XETRA,EUR,LU0274221281,XSMI:GR,1344,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/LU0274221281.pdf
+260,COMSTAGE DAX TR UCITS (CBDAX GR ETF),DEU-XETRA,EUR,LU0378438732,CBDAX:GR,1062,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/LU0378438732.pdf
+261,DEKA DAX AUSSCH UCITS (ETFDAXK GR E),DEU-XETRA,EUR,DE000ETFL060,ETFDAXK:GR,926,Fizyczna,Półrocznie,Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/DE000ETFL060.pdf
+262,DB X-TRACKERS MSCI EUROPE SMALL CAP INDEX UCITS (XXSC GR ETF),DEU-XETRA,EUR,LU0322253906,XXSC:GR,637,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0322253906.pdf
+263,ISHARES EURO STOXX SELECT DIVIDEND 30 UCITS (SD3EEX GR ET),DEU-XETRA,EUR,DE0002635281,SD3EEX:GR,832,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0002635281.pdf
+264,ISHARES DIVDAX UCITS (DDAXKEX GR E),DEU-XETRA,EUR,DE0002635273,DDAXKEX:GR,524,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/DE0002635273.pdf
+265,ISHARES STOXX EUROPE SELECT DIVIDEND 30 UCITS (SD3PEX GR ET),DEU-XETRA,EUR,DE0002635299,SD3PEX:GR,389,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0002635299.pdf
+266,XTRACKERS EURO STOXX 50 SHORT DAILY SWAP UCITS ETF 1C (DBX1SS GR ETF),DEU-XETRA,EUR,LU0292106753,DBX1SS:GR,284,Synt.,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0292106753.pdf
+267,XTRACKERS EURO STOXX 50 SHORT DAILY SWAP UCITS ETF 1C (DBX1SS GR ETF),DEU-XETRA,EUR,LU0292106753,DBX1SS:GR,284,Synt.,"0,4",Nie wypłaca,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/LU0292106753.pdf
+268,DB X-TRACKERS DAX INCOME UCITS (XDDX GR ETF),DEU-XETRA,EUR,LU0838782315,XDDX:GR,562,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/LU0838782315.pdf
+269,SOURCE MSCI EUROPE UCITS (SMSEUR GR ET),DEU-XETRA,EUR,IE00B60SWY32,SMSEUR:GR,452,Synt.,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/IE00B60SWY32.pdf
+270,DB X-TRACKERS SHORTDAX DAILY UCITS (XSDX GR ETF),DEU-XETRA,EUR,LU0292106241,XSDX:GR,553,Synt.,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0292106241.pdf
+271,DB X-TRACKERS SHORTDAX DAILY UCITS (XSDX GR ETF),DEU-XETRA,EUR,LU0292106241,XSDX:GR,553,Synt.,"0,4",Nie wypłaca,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/LU0292106241.pdf
+272,DB X-TRACKERS MSCI NORDIC UCITS (XDN0 GR ETF),DEU-XETRA,EUR,IE00B9MRHC27,XDN0:GR,333,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B9MRHC27.pdf
+273,ISHARES MSCI TURKEY UCITS (IQQ5 GR ETF),DEU-XETRA,EUR,IE00B1FZS574,IQQ5:GR,127,Fizyczna,Półrocznie,Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B1FZS574.pdf
+274,DB X-TRACKERS MSCI RUSSIA CAPPED UCITS (XMRC GR ETF),DEU-XETRA,EUR,LU0322252502,XMRC:GR,112,Synt.,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0322252502.pdf
+275,LYXOR MSCI GREECE UCITS  (LYXGRE GR ET),DEU-XETRA,EUR,FR0010405431,LYXGRE:GR,141,Synt.,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/FR0010405431.pdf
+276,DB X-TRACKERS CAC 40 UCITS (XCAC GR ETF),DEU-XETRA,EUR,LU0322250985,XCAC:GR,140,Fizyczna,Rocznie,Rocznie,Europa,https://www.mdm.pl/addstatic/kid/LU0322250985.pdf
+277,DB X-TRACKERS SPANISH EQUITY UCITS (XESP GR ETF),DEU-XETRA,EUR,LU0592216393,XESP:GR,55,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0592216393.pdf
+278,ISHARES MSCI POLAND (IBCJ GR ETF),DEU-XETRA,EUR,IE00B4M7GH52,IBCJ:GR,59,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/IE00B4M7GH52.pdf
+279,ISHARES MSCI POLAND UCITS (IPOL LN ETF),GBR-LSE,USD,IE00B4M7GH52,IPOL:LN,59,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/IE00B4M7GH52.pdf
+280,ISHARES MSCI POLAND UCITS (IPOL LN ETF),GBR-LSE,USD,IE00B4M7GH52,IPOL:LN,59,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B4M7GH52.pdf
+281,ISHARES CORE FTSE100 UCITS (ISF LN ETF),GBR-LSE,GBP,IE0005042456,ISF:LN,10185,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE0005042456.pdf
+282,ISHARES MSCI EUROPE UCITS (IMEU LN ETF),GBR-LSE,GBP,IE00B1YZSC51,IMEU:LN,6802,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B1YZSC51.pdf
+283,VANGUARD FTSE 100 UCITS (VUKE LN ETF),GBR-LSE,GBP,IE00B810Q511,VUKE:LN,4000,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B810Q511.pdf
+284,VANGUARD FTSE DEVELOPED EUROPE UCITS (VEUR LN ETF),GBR-LSE,GBP,IE00B945VV12,VEUR:LN,2402,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B945VV12.pdf
+285,ISHARES MSCI EUROPE UCITS (SMEA LN ETF),GBR-LSE,GBP,IE00B4K48X80,SMEA:LN,2569,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/IE00B4K48X80.pdf
+286,ISHARES FTSE 250 UCITS (MIDD LN ETF),GBR-LSE,GBP,IE00B00FV128,MIDD:LN,1218,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B00FV128.pdf
+287,ISHARES MSCI EUROPE EX-UK UCITS (IEUX LN ETF),GBR-LSE,GBP,IE00B14X4N27,IEUX:LN,1547,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B14X4N27.pdf
+288,ISHARES EURO DIVIDEND UCITS (IDVY LN ETF),GBR-LSE,GBP,IE00B0M62S72,IDVY:LN,766,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B0M62S72.pdf
+289,ISHARES STOXX EUROPE 50 UCITS  (EUN LN ETF),GBR-LSE,GBP,IE0008470928,EUN:LN,648,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE0008470928.pdf
+290,ISHARES MSCI EASTERN EUROPE CAPPED UCITS (IDEE LN ETF),GBR-LSE,USD,IE00B0M63953,IDEE:LN,193,Fizyczna,Kwartalnie,Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B0M63953.pdf
+291,ISHARES MSCI EASTERN EUROPE CAPPED UCITS (IDEE LN ETF),GBR-LSE,USD,IE00B0M63953,IDEE:LN,193,Fizyczna,Kwartalnie,Kwartalnie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B0M63953.pdf
+292,ISHARES MSCI RUSSIA ADR/GDR  USD UCITS (CSRU LN ETF),GBR-LSE,USD,IE00B5V87390,CSRU:LN,207,Fizyczna,Nie,Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/IE00B5V87390.pdf
+293,ISHARES MSCI RUSSIA ADR/GDR  USD UCITS (CSRU LN ETF),GBR-LSE,USD,IE00B5V87390,CSRU:LN,207,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B5V87390.pdf
+294,ISHARES Core MSCI EM IMI UCITS (IS3N GR ETF),DEU-XETRA,EUR,IE00BKM4GZ66,IS3N:GR,14926,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BKM4GZ66.pdf
+295,ISHARES CORE MSCI EM IMI UCITS  (EMIM LN ETF),GBR-LSE,GBP,IE00BKM4GZ66,EMIM:LN,14926,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BKM4GZ66.pdf
+296,AMUNDI MSCI EMERGING MARKETS UCITS (AMEM GR ETF),DEU-XETRA,EUR,LU1681045370,AMEM:GR,4533,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/LU1681045370.pdf
+297,ISHARES EDGE MSCI WORLD MINIMUM VOLATILITY UCITS (IQQ0 GR ETF),DEU-XETRA,EUR,IE00B8FHGS14,IQQ0:GR,4596,Fizyczna,b.,b. d.,Świat,https://www.mdm.pl/addstatic/kid/IE00B8FHGS14.pdf
+298,ISHARES EDGE MSCI WORLD MINIMUM VOLATILITY UCITS (MVOL LN ETF),GBR-LSE,USD,IE00B8FHGS14,MVOL:LN,4596,Fizyczna,b.,b. d.,Świat,https://www.mdm.pl/addstatic/kid/IE00B8FHGS14.pdf
+299,ISHARES EDGE MSCI WORLD MINIMUM VOLATILITY UCITS (MVOL LN ETF),GBR-LSE,USD,IE00B8FHGS14,MVOL:LN,4596,Fizyczna,"0,3",b. d.,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B8FHGS14.pdf
+300,DB X-TRACKERS MSCI WORLD SWAP UCITS (XMWO GR ETF),DEU-XETRA,EUR,LU0274208692,XMWO:GR,2988,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/LU0274208692.pdf
+301,DB X-TRACKERS MSCI EMERGING MARKET UCITS (XMME GR ETF),DEU-XETRA,EUR,IE00BTJRMP35,XMME:GR,2864,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BTJRMP35.pdf
+302,ISHARES MSCI WORLD VALUE FACTOR UCITS (IS3S GR ETF),DEU-XETRA,EUR,IE00BP3QZB59,IS3S:GR,1668,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BP3QZB59.pdf
+303,COMSTAGE MSCI WORLD UCITS (CBNDDUWI GR),DEU-XETRA,EUR,LU0392494562,CBNDDUWI:GR,2456,Synt.,Rocznie,Rocznie,Świat,https://www.mdm.pl/addstatic/kid/LU0392494562.pdf
+304,ISHARES STOXX GLOBAL SELECT DIVIDEND 100 UCITS (SDGPEX GR ET),DEU-XETRA,EUR,DE000A0F5UH1,SDGPEX:GR,1458,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/DE000A0F5UH1.pdf
+305,DB X-TRACKERS EMERGING MARKETS INDEX UCITS (XMEM GR ETF),DEU-XETRA,EUR,LU0292107645,XMEM:GR,1149,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/LU0292107645.pdf
+306,SOURCE MSCI WORLD UCITS (SMSWLD GR ET),DEU-XETRA,EUR,IE00B60SX394,SMSWLD:GR,2023,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00B60SX394.pdf
+307,ISHARES EDGE MSCI WORLD MOMENT UCITS (IS3R GR ETF),DEU-XETRA,EUR,IE00BP3QZ825,IS3R:GR,1824,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BP3QZ825.pdf
+308,ISHARES EDGE MSCI EM MINIMUM VOLATILITY UCITS (EUNZ GR ETF),DEU-XETRA,EUR,IE00B8KGV557,EUNZ:GR,477,Fizyczna,b.,b. d.,Świat,https://www.mdm.pl/addstatic/kid/IE00B8KGV557.pdf
+309,ISHARES MSCI EM UCITS (EUNM GR ETF),DEU-XETRA,EUR,IE00B4L5YC18,EUNM:GR,701,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00B4L5YC18.pdf
+310,DB X-TRACKERS STOXX GLOBAL SELECT DIV100 UCITS (XGSD GR ETF),DEU-XETRA,EUR,LU0292096186,XGSD:GR,399,Synt.,Rocznie,Rocznie,Świat,https://www.mdm.pl/addstatic/kid/LU0292096186.pdf
+311,ISHARES EMERGING MARKETS DIVIDEND UCITS (EUNY GR ETF),DEU-XETRA,EUR,IE00B652H904,EUNY:GR,328,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B652H904.pdf
+312,ISHARES EMERGING MARKETS DIVIDEND UCITS (IEDY LN ETF),GBR-LSE,USD,IE00B652H904,IEDY:LN,328,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B652H904.pdf
+313,ISHARES EMERGING MARKETS DIVIDEND UCITS (IEDY LN ETF),GBR-LSE,USD,IE00B652H904,IEDY:LN,328,Fizyczna,Kwartalnie,Kwartalnie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B652H904.pdf
+314,ISHARES MSCI EM SMALL CAP UCITS (EUNI GR ETF),DEU-XETRA,EUR,IE00B3F81G20,EUNI:GR,234,Fizyczna,Półrocznie,Półrocznie,Świat,https://www.mdm.pl/addstatic/kid/IE00B3F81G20.pdf
+315,DB X-TRACKERS S&P SELECT FRONTIER UCITS (XSFR GR ETF),DEU-XETRA,EUR,LU0328476410,XSFR:GR,75,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/LU0328476410.pdf
+316,ISHARES CORE MSCI WORLD UCITS (SWDA LN ETF),GBR-LSE,GBP,IE00B4L5Y983,SWDA:LN,25424,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00B4L5Y983.pdf
+317,VANGUARD FTSE ALL-WORLD UCITS ETF USD-ACC (VWRA LN ETF),GBR-LSE,USD,IE00BK5BQT80,VWRA:LN,6172,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BK5BQT80.pdf
+318,XTRACKERS MSCI WORLD UCITS (XDWD LN ETF),GBR-LSE,USD,IE00BJ0KDQ92,XDWD:LN,5912,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BJ0KDQ92.pdf
+319,XTRACKERS MSCI WORLD UCITS (XDWD LN ETF),GBR-LSE,USD,IE00BJ0KDQ92,XDWD:LN,5912,Fizyczna,"0,19",Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BJ0KDQ92.pdf
+320,ISHARES MSCI WORLD UCITS (IWRD LN ETF),GBR-LSE,GBP,IE00B0M62Q58,IWRD:LN,4802,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B0M62Q58.pdf
+321,ISHARES MSCI EM UCITS (IEEM LN ETF),GBR-LSE,GBP,IE00B0M63177,IEEM:LN,2509,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B0M63177.pdf
+322,VANGUARD FTSE EMERGING MARKETS UCITS (VDEM LN ETF),GBR-LSE,USD,IE00B3VVMM84,VDEM:LN,2131,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B3VVMM84.pdf
+323,VANGUARD FTSE EMERGING MARKETS UCITS (VDEM LN ETF),GBR-LSE,USD,IE00B3VVMM84,VDEM:LN,2131,Fizyczna,Kwartalnie,Kwartalnie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B3VVMM84.pdf
+324,ISHARES EDGE MSCI WORLD QUALITY FACTOR UCITS (IWQU LN ETF),GBR-LSE,USD,IE00BP3QZ601,IWQU:LN,1334,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BP3QZ601.pdf
+325,ISHARES EDGE MSCI WORLD QUALITY FACTOR UCITS (IWQU LN ETF),GBR-LSE,USD,IE00BP3QZ601,IWQU:LN,1334,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BP3QZ601.pdf
+326,SPDR GLOBAL DIVIDEND ARISTOCRATS (GLDV LN ETF),GBR-LSE,USD,IE00B9CQXS71,GLDV:LN,508,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B9CQXS71.pdf
+327,SPDR GLOBAL DIVIDEND ARISTOCRATS (GLDV LN ETF),GBR-LSE,USD,IE00B9CQXS71,GLDV:LN,508,Fizyczna,Kwartalnie,Kwartalnie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B9CQXS71.pdf
+328,ISHARES MSCI WORLD SMALL CAP UCITS (WSML LN ETF),GBR-LSE,USD,IE00BF4RFH31,WSML:LN,1292,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BF4RFH31.pdf
+329,ISHARES MSCI WORLD SMALL CAP UCITS (WSML LN ETF),GBR-LSE,USD,IE00BF4RFH31,WSML:LN,1292,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BF4RFH31.pdf
+330,VANGUARD FTSE ALL-WORLD HIGH DIVIDEND YIELD UCITS (VHYL LN ETF),GBR-LSE,GBP,IE00B8GKDB10,VHYL:LN,1112,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00B8GKDB10.pdf
+331,SPDR MSCI EMERGING MARKETS UCITS (EMRD LN ETF),GBR-LSE,USD,IE00B469F816,EMRD:LN,423,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00B469F816.pdf
+332,SPDR MSCI EMERGING MARKETS UCITS (EMRD LN ETF),GBR-LSE,USD,IE00B469F816,EMRD:LN,423,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B469F816.pdf
+333,VANGUARD FTSE DEVELOPED WORLD UCITS (VDEV LN ETF),GBR-LSE,USD,IE00BKX55T58,VDEV:LN,670,Fizyczna,Kwartalnie,Kwartalnie,Świat,https://www.mdm.pl/addstatic/kid/IE00BKX55T58.pdf
+334,VANGUARD FTSE DEVELOPED WORLD UCITS (VDEV LN ETF),GBR-LSE,USD,IE00BKX55T58,VDEV:LN,670,Fizyczna,Kwartalnie,Kwartalnie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BKX55T58.pdf
+335,THE ROYAL MINT PHYSICAL GOLD ETC SECURITIES (RMAU LN ETF),GBR-LSE,USD,XS2115336336,RMAU:LN,365,Fizyczna,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/XS2115336336.pdf
+336,THE ROYAL MINT PHYSICAL GOLD ETC SECURITIES (RMAU LN ETF),GBR-LSE,USD,XS2115336336,RMAU:LN,365,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/XS2115336336.pdf
+337,VANGUARD GLOBAL VALUE FACTOR UCITS (VVAL LN ETF),GBR-LSE,GBP,IE00BYYR0B57,VVAL:LN,232,Synt.,Nie,Nie wypłaca,Świat,https://www.mdm.pl/addstatic/kid/IE00BYYR0B57.pdf
+338,ISHARES J.P. MORGAN EM LOCAL GOVT BOND UCITS (IUSP GR ETF),DEU-XETRA,EUR,IE00B5M4WH52,IUSP:GR,5875,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B5M4WH52.pdf
+339,ISHARES J.P. MORGAN EM LOCAL GOVT BOND UCITS (IEML LN ETF),GBR-LSE,USD,IE00B5M4WH52,IEML:LN,5875,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B5M4WH52.pdf
+340,ISHARES J.P. MORGAN EM LOCAL GOVT BOND UCITS (IUSP GR ETF),DEU-XETRA,EUR,IE00B5M4WH52,IUSP:GR,5875,Fizyczna,"0,5",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B5M4WH52.pdf
+341,ISHARES J.P. MORGAN EM LOCAL GOVT BOND UCITS (IEML LN ETF),GBR-LSE,USD,IE00B5M4WH52,IEML:LN,5875,Fizyczna,"0,5",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B5M4WH52.pdf
+342,ISHARES J.P. MORGAN EM LOCAL GOVT BOND UCITS (IEML LN ETF),GBR-LSE,USD,IE00B5M4WH52,IEML:LN,5875,Fizyczna,Półrocznie,Półrocznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B5M4WH52.pdf
+343,ISHARES J.P. MORGAN EM BOND UCITS (IUS7 GR ETF),DEU-XETRA,EUR,IE00B2NPKV68,IUS7:GR,9903,Fizyczna,Miesięcznie,Miesięcznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B2NPKV68.pdf
+344,ISHARES J.P. MORGAN USD EMERGING MARKETS BOND UCITS (IEMB LN ETF),GBR-LSE,USD,IE00B2NPKV68,IEMB:LN,9903,Fizyczna,Miesięcznie,Miesięcznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B2NPKV68.pdf
+345,ISHARES J.P. MORGAN EM BOND UCITS (IUS7 GR ETF),DEU-XETRA,EUR,IE00B2NPKV68,IUS7:GR,9903,Fizyczna,"0,45",Miesięcznie,USA,https://www.mdm.pl/addstatic/kid/IE00B2NPKV68.pdf
+346,ISHARES J.P. MORGAN USD EMERGING MARKETS BOND UCITS (IEMB LN ETF),GBR-LSE,USD,IE00B2NPKV68,IEMB:LN,9903,Fizyczna,"0,45",Miesięcznie,USA,https://www.mdm.pl/addstatic/kid/IE00B2NPKV68.pdf
+347,ISHARES J.P. MORGAN USD EMERGING MARKETS BOND UCITS (IEMB LN ETF),GBR-LSE,USD,IE00B2NPKV68,IEMB:LN,9903,Fizyczna,"0,45",Miesięcznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B2NPKV68.pdf
+348,ISHARES USD TREASURY 1-3YR  UCITS (IUSU GR ETF),DEU-XETRA,EUR,IE00B14X4S71,IUSU:GR,7702,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B14X4S71.pdf
+349,ISHARES $ TREASURY BOND 1-3YR UCITS (IBTS LN ETF),GBR-LSE,GBP,IE00B14X4S71,IBTS:LN,7702,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B14X4S71.pdf
+350,ISHARES USD TREASURY 1-3YR  UCITS (IUSU GR ETF),DEU-XETRA,EUR,IE00B14X4S71,IUSU:GR,7702,Fizyczna,"0,07",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B14X4S71.pdf
+351,ISHARES $ TREASURY BOND 1-3YR UCITS (IBTS LN ETF),GBR-LSE,GBP,IE00B14X4S71,IBTS:LN,7702,Fizyczna,"0,07",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B14X4S71.pdf
+352,ISHARES USD TREASURY BOND 7-10YR UCITS  (IUSM GR ETF),DEU-XETRA,EUR,IE00B1FZS798,IUSM:GR,6185,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B1FZS798.pdf
+353,ISHARES $ TREASURY BOND 7-10YR UCITS (IBTM LN ETF),GBR-LSE,GBP,IE00B1FZS798,IBTM:LN,6185,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B1FZS798.pdf
+354,ISHARES USD TREASURY BOND 7-10YR UCITS  (IUSM GR ETF),DEU-XETRA,EUR,IE00B1FZS798,IUSM:GR,6185,Fizyczna,"0,07",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B1FZS798.pdf
+355,ISHARES $ TREASURY BOND 7-10YR UCITS (IBTM LN ETF),GBR-LSE,GBP,IE00B1FZS798,IBTM:LN,6185,Fizyczna,"0,07",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B1FZS798.pdf
+356,DB X-TRACKERS EURO GOV BOND UCITS (XGLE GR ETF),DEU-XETRA,EUR,LU0290355717,XGLE:GR,4491,Fizyczna,Nie,Nie wypłaca,Rządowe,https://www.mdm.pl/addstatic/kid/LU0290355717.pdf
+357,DB X-TRACKERS EURO GOV BOND UCITS (XGLE GR ETF),DEU-XETRA,EUR,LU0290355717,XGLE:GR,4491,Fizyczna,"0,15",Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0290355717.pdf
+358,DB X-TRACKERS II GLOBAL GOVERNMENT UCITS (DBZB GR ETF),DEU-XETRA,EUR,LU0378818131,DBZB:GR,2925,Fizyczna,Nie,Nie wypłaca,Rządowe,https://www.mdm.pl/addstatic/kid/LU0378818131.pdf
+359,DB X-TRACKERS II GLOBAL GOVERNMENT UCITS (DBZB GR ETF),DEU-XETRA,EUR,LU0378818131,DBZB:GR,2925,Fizyczna,"0,25",Nie wypłaca,USA,https://www.mdm.pl/addstatic/kid/LU0378818131.pdf
+360,DB X-TRACKERS II USD EMERGING MARKETS BOND UCITS (XEMB GR ETF),DEU-XETRA,EUR,LU0321462953,XEMB:GR,1706,Fizyczna,Nie,Nie wypłaca,Rządowe,https://www.mdm.pl/addstatic/kid/LU0321462953.pdf
+361,DB X-TRACKERS II USD EMERGING MARKETS BOND UCITS (XEMB GR ETF),DEU-XETRA,EUR,LU0321462953,XEMB:GR,1706,Fizyczna,"0,4",Nie wypłaca,USA,https://www.mdm.pl/addstatic/kid/LU0321462953.pdf
+362,ISHARES GLOBAL GOVERNMENT BOND UCITS (EUN3 GR ETF),DEU-XETRA,EUR,IE00B3F81K65,EUN3:GR,1977,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B3F81K65.pdf
+363,ISHARES GLOBAL GOVERNMENT BOND UCITS (EUN3 GR ETF),DEU-XETRA,EUR,IE00B3F81K65,EUN3:GR,1977,Fizyczna,"0,2",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B3F81K65.pdf
+364,DB X-TRACKERSII IBOXX SOVEURO YIELD + UCITS (XY4P GR ETF),DEU-XETRA,EUR,LU0524480265,XY4P:GR,1031,Fizyczna,Nie,Nie wypłaca,Rządowe,https://www.mdm.pl/addstatic/kid/LU0524480265.pdf
+365,DB X-TRACKERSII IBOXX SOVEURO YIELD + UCITS (XY4P GR ETF),DEU-XETRA,EUR,LU0524480265,XY4P:GR,1031,Fizyczna,"0,15",Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0524480265.pdf
+366,ISHARES USD TREASURY 20PLUS YR UCITS (IS04 GR ETF),DEU-XETRA,EUR,IE00BSKRJZ44,IS04:GR,1751,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00BSKRJZ44.pdf
+367,ISHARES USD TREASURY 20PLUS YR UCITS (IDTL LN ETF),GBR-LSE,USD,IE00BSKRJZ44,IDTL:LN,1751,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00BSKRJZ44.pdf
+368,ISHARES USD TREASURY 20PLUS YR UCITS (IS04 GR ETF),DEU-XETRA,EUR,IE00BSKRJZ44,IS04:GR,1751,Fizyczna,"0,07",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00BSKRJZ44.pdf
+369,ISHARES USD TREASURY 20PLUS YR UCITS (IDTL LN ETF),GBR-LSE,USD,IE00BSKRJZ44,IDTL:LN,1751,Fizyczna,"0,07",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00BSKRJZ44.pdf
+370,ISHARES USD TREASURY 20PLUS YR UCITS (IDTL LN ETF),GBR-LSE,USD,IE00BSKRJZ44,IDTL:LN,1751,Fizyczna,Półrocznie,Półrocznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BSKRJZ44.pdf
+371,DB X-TRACKERSII EURO GOVBOND YLD + 1-3 UCITS (XYP1 GR ETF),DEU-XETRA,EUR,LU0925589839,XYP1:GR,605,Fizyczna,b.,b. d.,Rządowe,https://www.mdm.pl/addstatic/kid/LU0925589839.pdf
+372,DB X-TRACKERSII EURO GOVBOND YLD + 1-3 UCITS (XYP1 GR ETF),DEU-XETRA,EUR,LU0925589839,XYP1:GR,605,Fizyczna,"0,15",b. d.,Europa,https://www.mdm.pl/addstatic/kid/LU0925589839.pdf
+373,ISHARES EB.REXX UCITS (RXRGEX GR ETF),DEU-XETRA,EUR,DE0006289465,RXRGEX:GR,485,Fizyczna,Kwartalnie,Kwartalnie,Rządowe,https://www.mdm.pl/addstatic/kid/DE0006289465.pdf
+374,ISHARES EB.REXX UCITS (RXRGEX GR ETF),DEU-XETRA,EUR,DE0006289465,RXRGEX:GR,485,Fizyczna,"0,16",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0006289465.pdf
+375,COMSTAGE COMMERZ BUND-FUTURE SHORT UCITS (5X62 GR ETF),DEU-XETRA,EUR,LU0530119774,5X62:GR,173,Synt.,Niereg.,Niereg.,Rządowe,https://www.mdm.pl/addstatic/kid/LU0530119774.pdf
+376,COMSTAGE COMMERZ BUND-FUTURE SHORT UCITS (5X62 GR ETF),DEU-XETRA,EUR,LU0530119774,5X62:GR,173,Synt.,"0,2",Niereg.,Europa,https://www.mdm.pl/addstatic/kid/LU0530119774.pdf
+377,COMSTAGE COMMERZ BUND-FUTURE SHORT UCITS (5X62 GR ETF),DEU-XETRA,EUR,LU0530119774,5X62:GR,173,Synt.,"0,2",Niereg.,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/LU0530119774.pdf
+378,ISHARES EB.REXX GER GOV BND 5.5-10.5 UCITS (RXP5EX GR ETF),DEU-XETRA,EUR,DE0006289499,RXP5EX:GR,321,Fizyczna,Kwartalnie,Kwartalnie,Rządowe,https://www.mdm.pl/addstatic/kid/DE0006289499.pdf
+379,ISHARES EB.REXX GER GOV BND 5.5-10.5 UCITS (RXP5EX GR ETF),DEU-XETRA,EUR,DE0006289499,RXP5EX:GR,321,Fizyczna,"0,16",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0006289499.pdf
+380,ISHARES EB.REXX GER GOV BND 1.5-2.5 UCITS (RXP1EX GR ETF),DEU-XETRA,EUR,DE0006289473,RXP1EX:GR,294,Fizyczna,Kwartalnie,Kwartalnie,Rządowe,https://www.mdm.pl/addstatic/kid/DE0006289473.pdf
+381,ISHARES EB.REXX GER GOV BND 1.5-2.5 UCITS (RXP1EX GR ETF),DEU-XETRA,EUR,DE0006289473,RXP1EX:GR,294,Fizyczna,"0,16",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0006289473.pdf
+382,ISHARES EB.REXX GER GOV BND 2.5-5.5 UCITS (RXP2EX GR ETF),DEU-XETRA,EUR,DE0006289481,RXP2EX:GR,333,Fizyczna,Kwartalnie,Kwartalnie,Rządowe,https://www.mdm.pl/addstatic/kid/DE0006289481.pdf
+383,ISHARES EB.REXX GER GOV BND 2.5-5.5 UCITS (RXP2EX GR ETF),DEU-XETRA,EUR,DE0006289481,RXP2EX:GR,333,Fizyczna,"0,16",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/DE0006289481.pdf
+384,ISHARES USD TREASURY 1-3Y (IBTA LN ETF),GBR-LSE,USD,IE00BYXPSP02,IBTA:LN,7702,Fizyczna,Nie,Nie wypłaca,Rządowe,https://www.mdm.pl/addstatic/kid/IE00BYXPSP02.pdf
+385,ISHARES USD TREASURY 1-3Y (IBTA LN ETF),GBR-LSE,USD,IE00BYXPSP02,IBTA:LN,7702,Fizyczna,"0,07",Nie wypłaca,USA,https://www.mdm.pl/addstatic/kid/IE00BYXPSP02.pdf
+386,ISHARES USD TREASURY 1-3Y (IBTA LN ETF),GBR-LSE,USD,IE00BYXPSP02,IBTA:LN,7702,Fizyczna,"0,07",Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYXPSP02.pdf
+387,ISHARES USD TREASURY BOND 3-7YR ( CBU7 LN ETF),GBR-LSE,USD,IE00B3VWN393,CBU7:LN,2629,Fizyczna,Nie,Nie wypłaca,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B3VWN393.pdf
+388,ISHARES USD TREASURY BOND 3-7YR ( CBU7 LN ETF),GBR-LSE,USD,IE00B3VWN393,CBU7:LN,2629,Fizyczna,"0,07",Nie wypłaca,USA,https://www.mdm.pl/addstatic/kid/IE00B3VWN393.pdf
+389,ISHARES USD TREASURY BOND 3-7YR ( CBU7 LN ETF),GBR-LSE,USD,IE00B3VWN393,CBU7:LN,2629,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B3VWN393.pdf
+390,ISHARES € GOVT BOND 3-5YR UCITS (IBGX LN ETF),GBR-LSE,GBP,IE00B1FZS681,IBGX:LN,2406,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B1FZS681.pdf
+391,ISHARES € GOVT BOND 3-5YR UCITS (IBGX LN ETF),GBR-LSE,GBP,IE00B1FZS681,IBGX:LN,2406,Fizyczna,"0,2",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B1FZS681.pdf
+392,ISHARES CORE UK GILTS UCITS (IGLT LN ETF),GBR-LSE,GBP,IE00B1FZSB30,IGLT:LN,2178,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B1FZSB30.pdf
+393,ISHARES CORE UK GILTS UCITS (IGLT LN ETF),GBR-LSE,GBP,IE00B1FZSB30,IGLT:LN,2178,Fizyczna,"0,07",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B1FZSB30.pdf
+394,ISHARES UK GILT 0-5 UCITS (IGLS LN ETF),GBR-LSE,GBP,IE00B4WXJK79,IGLS:LN,1521,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B4WXJK79.pdf
+395,ISHARES UK GILT 0-5 UCITS (IGLS LN ETF),GBR-LSE,GBP,IE00B4WXJK79,IGLS:LN,1521,Fizyczna,"0,07",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B4WXJK79.pdf
+396,ISHARES € GOVT BOND 1-3YR UCITS (IBGS LN ETF),GBR-LSE,GBP,IE00B14X4Q57,IBGS:LN,1550,Fizyczna,Niereg.,Niereg.,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B14X4Q57.pdf
+397,ISHARES € GOVT BOND 1-3YR UCITS (IBGS LN ETF),GBR-LSE,GBP,IE00B14X4Q57,IBGS:LN,1550,Fizyczna,"0,2",Niereg.,Europa,https://www.mdm.pl/addstatic/kid/IE00B14X4Q57.pdf
+398,ISHARES € GOVT BOND 7-10YR UCITS (IBGM LN ETF),GBR-LSE,GBP,IE00B1FZS806,IBGM:LN,1195,Fizyczna,Półrocznie,Półrocznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00B1FZS806.pdf
+399,ISHARES € GOVT BOND 7-10YR UCITS (IBGM LN ETF),GBR-LSE,GBP,IE00B1FZS806,IBGM:LN,1195,Fizyczna,"0,2",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B1FZS806.pdf
+400,VANGUARD USD TREASURY BOND UCITS (VDTY LN ETF),GBR-LSE,USD,IE00BZ163M45,VDTY:LN,622,Fizyczna,Miesięcznie,Miesięcznie,Rządowe,https://www.mdm.pl/addstatic/kid/IE00BZ163M45.pdf
+401,VANGUARD USD TREASURY BOND UCITS (VDTY LN ETF),GBR-LSE,USD,IE00BZ163M45,VDTY:LN,622,Fizyczna,"0,07",Miesięcznie,USA,https://www.mdm.pl/addstatic/kid/IE00BZ163M45.pdf
+402,VANGUARD USD TREASURY BOND UCITS (VDTY LN ETF),GBR-LSE,USD,IE00BZ163M45,VDTY:LN,622,Fizyczna,Miesięcznie,Miesięcznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BZ163M45.pdf
+403,ISHARES CORE EUR0 CORP BOND UCITS (EUN5 GR ETF),DEU-XETRA,EUR,IE00B3F81R35,EUN5:GR,18304,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B3F81R35.pdf
+404,ISHARES CORE EUR0 CORP BOND UCITS (EUN5 GR ETF),DEU-XETRA,EUR,IE00B3F81R35,EUN5:GR,18304,Fizyczna,"0,2",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B3F81R35.pdf
+405,ISHARES EUR HIGH YIELD CORP BOND UCITS (EUNW GR ETF),DEU-XETRA,EUR,IE00B66F4759,EUNW:GR,7721,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B66F4759.pdf
+406,ISHARES EUR HIGH YIELD CORP BOND UCITS (EUNW GR ETF),DEU-XETRA,EUR,IE00B66F4759,EUNW:GR,7721,Fizyczna,"0,5",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B66F4759.pdf
+407,ISHARES USD CORPORATE BOND UCITS (IBCD GR ETF),DEU-XETRA,EUR,IE0032895942,IBCD:GR,11781,Fizyczna,Kwartalnie,Kwartalnie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE0032895942.pdf
+408,ISHARES USD CORPORATE BOND UCITS (LQDE LN ETF),GBR-LSE,USD,IE0032895942,LQDE:LN,11781,Fizyczna,Kwartalnie,Kwartalnie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE0032895942.pdf
+409,ISHARES USD CORPORATE BOND UCITS (IBCD GR ETF),DEU-XETRA,EUR,IE0032895942,IBCD:GR,11781,Fizyczna,"0,2",Kwartalnie,USA,https://www.mdm.pl/addstatic/kid/IE0032895942.pdf
+410,ISHARES USD CORPORATE BOND UCITS (LQDE LN ETF),GBR-LSE,USD,IE0032895942,LQDE:LN,11781,Fizyczna,"0,2",Kwartalnie,USA,https://www.mdm.pl/addstatic/kid/IE0032895942.pdf
+411,ISHARES USD CORPORATE BOND UCITS (LQDE LN ETF),GBR-LSE,USD,IE0032895942,LQDE:LN,11781,Fizyczna,"0,2",Kwartalnie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE0032895942.pdf
+412,ISHARES USD HIGH YIELD CORPORATE BOND UCITS (IS0R GR ETF),DEU-XETRA,EUR,IE00B4PY7Y77,IS0R:GR,6712,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B4PY7Y77.pdf
+413,ISHARES USD HIGH YIELD CORPORATE BOND UCITS (IHYU LN ETF),GBR-LSE,USD,IE00B4PY7Y77,IHYU:LN,6712,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B4PY7Y77.pdf
+414,ISHARES USD HIGH YIELD CORPORATE BOND UCITS (IS0R GR ETF),DEU-XETRA,EUR,IE00B4PY7Y77,IS0R:GR,6712,Fizyczna,"0,5",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B4PY7Y77.pdf
+415,ISHARES USD HIGH YIELD CORPORATE BOND UCITS (IHYU LN ETF),GBR-LSE,USD,IE00B4PY7Y77,IHYU:LN,6712,Fizyczna,"0,5",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B4PY7Y77.pdf
+416,ISHARES USD HIGH YIELD CORPORATE BOND UCITS (IHYU LN ETF),GBR-LSE,USD,IE00B4PY7Y77,IHYU:LN,6712,Fizyczna,"0,5",Półrocznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B4PY7Y77.pdf
+417,ISHARES € CORP BOND 1-5YR UCITS (EUNT GR ETF),DEU-XETRA,EUR,IE00B4L60045,EUNT:GR,4516,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B4L60045.pdf
+418,ISHARES € CORP BOND 1-5YR UCITS (EUNT GR ETF),DEU-XETRA,EUR,IE00B4L60045,EUNT:GR,4516,Fizyczna,"0,2",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B4L60045.pdf
+419,ISHARES USD SHORT DURATION CORPORATE BOND UCITS (IS3J GR ETF),DEU-XETRA,EUR,IE00BCRY5Y77,IS3J:GR,5474,Fizyczna,Kwartalnie,Kwartalnie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00BCRY5Y77.pdf
+420,ISHARES USD SHORT DURATION CORPORATE BOND UCITS (IS3J GR ETF),DEU-XETRA,EUR,IE00BCRY5Y77,IS3J:GR,5474,Fizyczna,"0,2",Kwartalnie,USA,https://www.mdm.pl/addstatic/kid/IE00BCRY5Y77.pdf
+421,ISHARES GLOBAL CORP BOND UCITS (IS0X GR ETF),DEU-XETRA,EUR,IE00B7J7TB45,IS0X:GR,3608,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B7J7TB45.pdf
+422,ISHARES GLOBAL CORP BOND UCITS (IS0X GR ETF),DEU-XETRA,EUR,IE00B7J7TB45,IS0X:GR,3608,Fizyczna,"0,2",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B7J7TB45.pdf
+423,ISHARES € CORP BOND EX-FINANCIALS UCITS  (EUNR GR ET),DEU-XETRA,EUR,IE00B4L5ZG21,EUNR:GR,2062,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B4L5ZG21.pdf
+424,ISHARES € CORP BOND EX-FINANCIALS UCITS  (EUNR GR ET),DEU-XETRA,EUR,IE00B4L5ZG21,EUNR:GR,2062,Fizyczna,"0,2",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B4L5ZG21.pdf
+425,DB X-TRACKERS II EUR CORP BOND UCITS (XBLC GR ETF),DEU-XETRA,EUR,LU0478205379,XBLC:GR,2805,Fizyczna,Nie,Nie wypłaca,Korporacyjne,https://www.mdm.pl/addstatic/kid/LU0478205379.pdf
+426,DB X-TRACKERS II EUR CORP BOND UCITS (XBLC GR ETF),DEU-XETRA,EUR,LU0478205379,XBLC:GR,2805,Fizyczna,"0,12",Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0478205379.pdf
+427,ISHARES USD SHORT DURATION HIGH YIELD CORP BOND UCIITS (IS3K GR ETF),DEU-XETRA,EUR,IE00BCRY6003,IS3K:GR,1010,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00BCRY6003.pdf
+428,ISHARES USD SHORT DURATION HIGH YIELD CORP BOND UCIITS (IS3K GR ETF),DEU-XETRA,EUR,IE00BCRY6003,IS3K:GR,1010,Fizyczna,"0,45",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00BCRY6003.pdf
+429,ISHARES GLOBAL HIGH YIELD CORP BOND UCITS (IBC9 GR ETF),DEU-XETRA,EUR,IE00B74DQ490,IBC9:GR,1772,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B74DQ490.pdf
+430,ISHARES GLOBAL HIGH YIELD CORP BOND UCITS (IBC9 GR ETF),DEU-XETRA,EUR,IE00B74DQ490,IBC9:GR,1772,Fizyczna,"0,5",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B74DQ490.pdf
+431,ISHARES CORE £ CORP BOND UCITS (SLXX LN ETF),GBR-LSE,GBP,IE00B00FV011,SLXX:LN,2885,Fizyczna,Kwartalnie,Kwartalnie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B00FV011.pdf
+432,ISHARES CORE £ CORP BOND UCITS (SLXX LN ETF),GBR-LSE,GBP,IE00B00FV011,SLXX:LN,2885,Fizyczna,"0,2",Kwartalnie,Europa,https://www.mdm.pl/addstatic/kid/IE00B00FV011.pdf
+433,ISHARES £ CORP BOND 0-5YR UCITS (IS15 LN ETF),GBR-LSE,GBP,IE00B5L65R35,IS15:LN,1812,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00B5L65R35.pdf
+434,ISHARES £ CORP BOND 0-5YR UCITS (IS15 LN ETF),GBR-LSE,GBP,IE00B5L65R35,IS15:LN,1812,Fizyczna,"0,2",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B5L65R35.pdf
+435,ISHARES FALLEN ANGELS HIGH YIELD CORP BOND UCITS (WING LN ETF),GBR-LSE,USD,IE00BYM31M36,WING:LN,1181,Fizyczna,Półrocznie,Półrocznie,Korporacyjne,https://www.mdm.pl/addstatic/kid/IE00BYM31M36.pdf
+436,ISHARES FALLEN ANGELS HIGH YIELD CORP BOND UCITS (WING LN ETF),GBR-LSE,USD,IE00BYM31M36,WING:LN,1181,Fizyczna,"0,5",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00BYM31M36.pdf
+437,ISHARES FALLEN ANGELS HIGH YIELD CORP BOND UCITS (WING LN ETF),GBR-LSE,USD,IE00BYM31M36,WING:LN,1181,Fizyczna,Półrocznie,Półrocznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00BYM31M36.pdf
+438,ISHARES USD TIPS UCITS (IUST GR ETF),DEU-XETRA,EUR,IE00B1FZSC47,IUST:GR,3117,Fizyczna,Nie,Nie wypłaca,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/IE00B1FZSC47.pdf
+439,ISHARES USD TIPS UCITS (IUST GR ETF),DEU-XETRA,EUR,IE00B1FZSC47,IUST:GR,3117,Fizyczna,"0,25",Nie wypłaca,USA,https://www.mdm.pl/addstatic/kid/IE00B1FZSC47.pdf
+440,LYXOR CORE US TIPS UCITS (TIUP GR ETF),DEU-XETRA,EUR,LU1452600270,TIUP:GR,3026,Fizyczna,Rocznie,Rocznie,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/LU1452600270.pdf
+441,LYXOR CORE US TIPS UCITS (TIPU LN ETF),GBR-LSE,USD,LU1452600270,TIPU:LN,3026,Fizyczna,Rocznie,Rocznie,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/LU1452600270.pdf
+442,LYXOR CORE US TIPS UCITS (TIUP GR ETF),DEU-XETRA,EUR,LU1452600270,TIUP:GR,3026,Fizyczna,"0,09",Rocznie,USA,https://www.mdm.pl/addstatic/kid/LU1452600270.pdf
+443,LYXOR CORE US TIPS UCITS (TIPU LN ETF),GBR-LSE,USD,LU1452600270,TIPU:LN,3026,Fizyczna,"0,09",Rocznie,USA,https://www.mdm.pl/addstatic/kid/LU1452600270.pdf
+444,LYXOR CORE US TIPS UCITS (TIPU LN ETF),GBR-LSE,USD,LU1452600270,TIPU:LN,3026,Fizyczna,Rocznie,Rocznie,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/LU1452600270.pdf
+445,DB X-TRACKERS II GLOBAL INFLATION LINKED BONDS UCITS (XGIN GR ETF),DEU-XETRA,EUR,LU0290357929,XGIN:GR,1783,Fizyczna,Nie,Nie wypłaca,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/LU0290357929.pdf
+446,DB X-TRACKERS II GLOBAL INFLATION LINKED BONDS UCITS (XGIN GR ETF),DEU-XETRA,EUR,LU0290357929,XGIN:GR,1783,Fizyczna,"0,25",Nie wypłaca,USA,https://www.mdm.pl/addstatic/kid/LU0290357929.pdf
+447,ISHARES GL INFL-L GOV BOND UCITS (IUS5 GR ETF),DEU-XETRA,EUR,IE00B3B8PX14,IUS5:GR,878,Fizyczna,Nie,Nie wypłaca,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/IE00B3B8PX14.pdf
+448,ISHARES GL INFL-L GOV BOND UCITS (IUS5 GR ETF),DEU-XETRA,EUR,IE00B3B8PX14,IUS5:GR,878,Fizyczna,"0,25",Nie wypłaca,USA,https://www.mdm.pl/addstatic/kid/IE00B3B8PX14.pdf
+449,ISHARES USD TIPS 0-5 UCITS (SXRH GR ETF),DEU-XETRA,EUR,IE00BDQYWQ65,SXRH:GR,407,Fizyczna,Niereg.,Niereg.,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/IE00BDQYWQ65.pdf
+450,ISHARES USD TIPS 0-5 UCITS (SXRH GR ETF),DEU-XETRA,EUR,IE00BDQYWQ65,SXRH:GR,407,Fizyczna,"0,1",Niereg.,USA,https://www.mdm.pl/addstatic/kid/IE00BDQYWQ65.pdf
+451,DB X-TRACKERS II EUROZONE INFLATION UCITS (XEIN GR ETF),DEU-XETRA,EUR,LU0290358224,XEIN:GR,504,Fizyczna,Nie,Nie wypłaca,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/LU0290358224.pdf
+452,DB X-TRACKERS II EUROZONE INFLATION UCITS (XEIN GR ETF),DEU-XETRA,EUR,LU0290358224,XEIN:GR,504,Fizyczna,"0,2",Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/LU0290358224.pdf
+453,ISHARES € INFLATION LINKED GOVT BOND UCITS (IBCI LN ETF),GBR-LSE,GBP,IE00B0M62X26,IBCI:LN,1705,Fizyczna,Nie,Nie wypłaca,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/IE00B0M62X26.pdf
+454,ISHARES € INFLATION LINKED GOVT BOND UCITS (IBCI LN ETF),GBR-LSE,GBP,IE00B0M62X26,IBCI:LN,1705,Fizyczna,"0,25",Nie wypłaca,Europa,https://www.mdm.pl/addstatic/kid/IE00B0M62X26.pdf
+455,ISHARES £ IND-LINKED GILTS UCITS (INXG LN ETF),GBR-LSE,GBP,IE00B1FZSD53,INXG:LN,1326,Fizyczna,Półrocznie,Półrocznie,Zabezpieczone przed inflacją,https://www.mdm.pl/addstatic/kid/IE00B1FZSD53.pdf
+456,ISHARES £ IND-LINKED GILTS UCITS (INXG LN ETF),GBR-LSE,GBP,IE00B1FZSD53,INXG:LN,1326,Fizyczna,"0,1",Półrocznie,Europa,https://www.mdm.pl/addstatic/kid/IE00B1FZSD53.pdf
+457,ISHARES USD FLOATING RATE BOND UCITS (QDVY GR ETF),DEU-XETRA,EUR,IE00BZ048462,QDVY:GR,2313,Fizyczna,Niereg.,Niereg.,Zagregowane,https://www.mdm.pl/addstatic/kid/IE00BZ048462.pdf
+458,ISHARES USD FLOATING RATE BOND UCITS (QDVY GR ETF),DEU-XETRA,EUR,IE00BZ048462,QDVY:GR,2313,Fizyczna,"0,1",Niereg.,USA,https://www.mdm.pl/addstatic/kid/IE00BZ048462.pdf
+459,ISHARES US AGGREGATE BOND UCITS (EUNX GR ETF),DEU-XETRA,EUR,IE00B44CGS96,EUNX:GR,3784,Fizyczna,Półrocznie,Półrocznie,Zagregowane,https://www.mdm.pl/addstatic/kid/IE00B44CGS96.pdf
+460,ISHARES US AGGREGATE BOND UCITS (EUNX GR ETF),DEU-XETRA,EUR,IE00B44CGS96,EUNX:GR,3784,Fizyczna,"0,25",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00B44CGS96.pdf
+461,ISHARES US MBS UCITS (QDVP GR ETF),DEU-XETRA,EUR,IE00BZ6V7883,QDVP:GR,2479,Fizyczna,Półrocznie,Półrocznie,Zagregowane,https://www.mdm.pl/addstatic/kid/IE00BZ6V7883.pdf
+462,ISHARES US MBS UCITS (QDVP GR ETF),DEU-XETRA,EUR,IE00BZ6V7883,QDVP:GR,2479,Fizyczna,"0,28",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00BZ6V7883.pdf
+463,SPDR THOMSON REUTERS GLOBAL CONVERTIBLE BOND UCITS (ZPRC GR ETF),DEU-XETRA,EUR,IE00BNH72088,ZPRC:GR,1350,Fizyczna,Półrocznie,Półrocznie,Zagregowane,https://www.mdm.pl/addstatic/kid/IE00BNH72088.pdf
+464,SPDR THOMSON REUTERS GLOBAL CONVERTIBLE BOND UCITS (ZPRC GR ETF),DEU-XETRA,EUR,IE00BNH72088,ZPRC:GR,1350,Fizyczna,"0,5",Półrocznie,USA,https://www.mdm.pl/addstatic/kid/IE00BNH72088.pdf
+465,WISDOMTREE 2X DAILY LONG SILVER (4RUE GR ETF),DEU-XETRA,EUR,DE000A0V9Y57,4RUE:GR,79,Synt.,"0,98",Nie wypłaca,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/DE000A0V9Y57.pdf
+466,WISDOMTREE 2X DAILY LONG WTI CRUDE OIL (4RT6 GR ETF),DEU-XETRA,EUR,DE000A2BDEB6,4RT6:GR,332,Synt.,"0,98",Nie wypłaca,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/DE000A2BDEB6.pdf
+467,WISDOMTREE 2X DAILY LONG GOLD (4RT8 GR ETF),DEU-XETRA,EUR,DE000A0V9YZ7,4RT8:GR,47,Synt.,"0,98",Nie wypłaca,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/DE000A0V9YZ7.pdf
+468,WISDOMTREE GOLD 3X DAILY LEVERAGED (3GOL LN ETF),GBR-LSE,USD,IE00B8HGT870,3GOL:LN,56,Synt.,"0,99",b. d.,Lewarowane i gra na spadki,https://www.mdm.pl/addstatic/kid/IE00B8HGT870.pdf
+469,WISDOMTREE GOLD 3X DAILY LEVERAGED (3GOL LN ETF),GBR-LSE,USD,IE00B8HGT870,3GOL:LN,56,Synt.,b.,b. d.,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/IE00B8HGT870.pdf
+470,LYXOR S&P 500 VIX FUTURES ENHANCED ROLL UCITS (VOOL GR ETF),DEU-XETRA,EUR,LU0832435464,VOOL:GR,69,Synt.,"0,6",b. d.,Zmienność,https://www.mdm.pl/addstatic/kid/LU0832435464.pdf
+471,WISDOMTREE PHYSICAL GOLD (PHAU LN ETF),GBR-LSE,USD,JE00B1VS3770,PHAU:LN,9379,Fizyczna,"0,39",Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/JE00B1VS3770.pdf
+472,WISDOMTREE PHYSICAL SILVER (PHAG LN ETF),GBR-LSE,USD,JE00B1VS3333,PHAG:LN,2341,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/JE00B1VS3333.pdf
+473,WISDOMTREE WTI CRUDE OIL (CRUD LN ETF),GBR-LSE,USD,GB00B15KXV33,CRUD:LN,1622,Synt.,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/GB00B15KXV33.pdf
+474,WISDOMTREE PHYSICAL PLATINUM (PHPT LN ETF),GBR-LSE,USD,JE00B1VS2W53,PHPT:LN,559,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/JE00B1VS2W53.pdf
+475,WISDOMTREE NICKEL (NICK LN ETF),GBR-LSE,USD,GB00B15KY211,NICK:LN,316,Synt.,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/GB00B15KY211.pdf
+476,WISDOMTREE COPPER (COPA LN ETF),GBR-LSE,USD,GB00B15KXQ89,COPA:LN,302,Synt.,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/GB00B15KXQ89.pdf
+477,WISDOMTREE PHYSICAL PALLADIUM (PHPD LN ETF),GBR-LSE,USD,JE00B1VS3002,PHPD:LN,190,Fizyczna,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/JE00B1VS3002.pdf
+478,WISDOMTREE BRENT CRUDE OIL (BRNT LN ETF),GBR-LSE,USD,JE00B78CGV99,BRNT:LN,465,Synt.,b.,b. d.,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/JE00B78CGV99.pdf
+479,WISDOMTREE COFFEE (COFF LN ETF),GBR-LSE,USD,GB00B15KXP72,COFF:LN,117,Synt.,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/GB00B15KXP72.pdf
+480,WISDOMTREE SUGAR (SUGA LN ETF),GBR-LSE,USD,GB00B15KY658,SUGA:LN,28,Synt.,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/GB00B15KY658.pdf
+481,WISDOMTREE CORN (CORN LN ETF),GBR-LSE,USD,GB00B15KXS04,CORN:LN,31,Synt.,Nie,Nie wypłaca,ETF notowane w USD,https://www.mdm.pl/addstatic/kid/GB00B15KXS04.pdf
